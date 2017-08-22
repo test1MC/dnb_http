@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet Comment="My set of condition tags">
+    <ConditionTag BackgroundColor="#ff0000" Name="Salesforce-Data" Comment="Data.com" OriginalName="Salesforce-Data" />
+    <ConditionTag BackgroundColor="#0000ff" Name="SugarCRM" Comment="" OriginalName="SugarCRM" />
+    <ConditionTag BackgroundColor="#008000" Name="Microsoft-MSD" Comment="Microsoft Dynamics" OriginalName="Microsoft-MSD" />
+    <ConditionTag BackgroundColor="#ffa500" Name="SAP" Comment="" OriginalName="SAP" />
+    <ConditionTag BackgroundColor="#8b008b" Name="Oracle" Comment="" OriginalName="Oracle" />
+    <ConditionTag BackgroundColor="#00bfff" Name="Seibel" Comment="" OriginalName="Seibel" />
+    <ConditionTag BackgroundColor="#000000" Name="!Salesforce-Data" Comment="NOT" OriginalName="!Salesforce-Data" />
+    <ConditionTag BackgroundColor="#000000" Name="!SugarCRM" Comment="NOT" OriginalName="!SugarCRM" />
+    <ConditionTag BackgroundColor="#000000" Name="!Microsoft-MSD" Comment="NOT" OriginalName="!Microsoft-MSD" />
+    <ConditionTag BackgroundColor="#000000" Name="!SAP" Comment="NOT" />
+    <ConditionTag BackgroundColor="#000000" Name="!Oracle" Comment="NOT" OriginalName="!Oracle" />
+</CatapultConditionTagSet>

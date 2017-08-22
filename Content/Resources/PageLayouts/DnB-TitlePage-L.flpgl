@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="TitlePage" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="5px" PaddingBottom="5px" PageType="title" BackgroundPositionX="0" BackgroundPositionY="0" Orientation="landscape">
+        <Frame X="-94px" Y="-2px" Width="1055px" Height="666px" Flow="body" Right="-97px" Bottom="142px" Anchors="" />
+        <Frame X="-95px" Y="684px" Width="1056px" Height="127px" Flow="footer" Right="-97px" Bottom="-5px" BorderBottomStyle="solid" BorderBottomWidth="25px" BorderBottomColor="#2a64a0" Anchors="" />
+    </Page>
+</PageStyles>

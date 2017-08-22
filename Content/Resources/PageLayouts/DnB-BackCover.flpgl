@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="BackCover" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="5px" PaddingBottom="5px" PageType="left" BackgroundPositionX="0" BackgroundPositionY="0">
+        <Frame X="-95px" Y="859px" Width="816px" Height="132px" Flow="body" Right="-97px" Bottom="55px" Anchors="" />
+        <Frame X="-96px" Y="1003px" Width="816px" Height="50px" Flow="footer" Right="-96px" Bottom="-7px" BorderBottomStyle="none" BorderBottomWidth="25px" BorderBottomColor="#2a64a0" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="master_back_cover_copyright">
+                            <MadCap:variable xhtml:name="Master/DnB-Branding.Copyright&#160;(Full)" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-95px" Y="811px" Width="818px" Height="111px" Flow="header" Right="-99px" Bottom="124px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="master_back_cover_logo">
+                            <xhtml:img xhtml:src="../Images/Master/Branding/DB_WORDMARK_RGB.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:style="width: 2.5in;height: auto;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

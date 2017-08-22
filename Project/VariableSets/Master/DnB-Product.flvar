@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="DnB-360" OriginalName="DnB-360">D&amp;B360</Variable>
+    <Variable Comment="" Name="DnB-CIM" OriginalName="DnB-CIM">D&amp;B&#160;Integration&#160;Manager</Variable>
+    <Variable Name="DnB-Compliance" Comment="" OriginalName="DnB-Compliance">D&amp;B&#160;Compliance Solution</Variable>
+    <Variable Name="DnB-DataX" Comment="" OriginalName="DnB-DataX">D&amp;B&#160;Data Exchange</Variable>
+    <Variable Name="DnB-Direct" Comment="" OriginalName="DnB-Direct">D&amp;B&#160;Direct</Variable>
+    <Variable Name="DnB-DNBi" Comment="" OriginalName="DnB-DNBi">DNBi</Variable>
+    <Variable Name="DnB-FamTree" Comment="" OriginalName="DnB-FamTree">D&amp;B&#160;Family Tree Portal</Variable>
+    <Variable Name="DnB-Hoovers" Comment="" OriginalName="DnB-Hoovers">Hoovers</Variable>
+    <Variable Name="DnB-MktInsight" Comment="" OriginalName="DnB-MktInsight">D&amp;B&#160;Market Insight</Variable>
+    <Variable Name="DnB-Optimizer" Comment="" OriginalName="DnB-Optimizer">D&amp;B&#160;Optimizer</Variable>
+    <Variable Name="DnB-OptOnline" Comment="" OriginalName="DnB-OptOnline">D&amp;B&#160;Optimizer Online</Variable>
+    <Variable Name="DnB-NoName" Comment="">(Product\DnB-NoName in Target)</Variable>
+    <Variable Name="DnB-Customer-Svc" Comment="">(US)&#160;1-866-465-3829</Variable>
+    <Variable Name="DnB-Toolkit" Comment="" OriginalName="DnB-Toolkit">D&amp;B&#160;Data Integration Toolkit</Variable>
+    <Variable Name="DnB-Direct1" Comment="" OriginalName="DnB-Direct1">D&amp;B&#160;Direct 1.x</Variable>
+    <Variable Name="DnB-CM4SSIS" Comment="">D&amp;B&#160;Company Cleanse &amp;&#160;Match for SQL&#160;Server Integration&#160;Services (SSIS)</Variable>
+    <Variable Name="DnB-SRMgr" Comment="">D&amp;B&#160;Supplier Risk Manager</Variable>
+    <Variable Name="DnB-Docs-Vanity" Comment="replace {?} with the assigned product URL.">http://docs.dnb.com/{?}.html</Variable>
+    <Variable Name="DnB-OnBoard" Comment="">D&amp;B&#160;OnBoard</Variable>
+    <Variable Name="DnB-Direct3" Comment="">D&amp;B&#160;Direct+</Variable>
+</CatapultVariableSet>

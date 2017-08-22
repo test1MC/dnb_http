@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="132" MadCap:lastWidth="692">
+    <body>
+        <h2 MadCap:autonum="0.1. ">Service Updates</h2>
+        <p>Periodic releases will be issued to <MadCap:variable name="Master/DnB-Product.DnB-NoName" />&#160;to add functionality or increase the accuracy, speed, and stability of the API. <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />s are encouraged to utilize the most recent version of any D&amp;B&#160;API&#160;web service or connector products that are included in their implementations.</p>
+    </body>
+</html>

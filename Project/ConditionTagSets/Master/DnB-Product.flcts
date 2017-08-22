@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet Comment="My set of condition tags">
+    <ConditionTag Comment="Customer Integration Manager" Name="DnB-CIM" BackgroundColor="Blue" OriginalName="DnB-CIM" />
+    <ConditionTag Comment="Compliance Solution" Name="DnB-Compliance" BackgroundColor="Red" OriginalName="DnB-Compliance" />
+    <ConditionTag BackgroundColor="#008000" Name="DnB-DataX" Comment="Data Exchange" OriginalName="DnB-DataX" />
+    <ConditionTag BackgroundColor="#ffa500" Name="DnB-Direct" Comment="Direct API" OriginalName="DnB-Direct" />
+    <ConditionTag BackgroundColor="#8b008b" Name="DnB-FamTree" Comment="Family Tree Portal" OriginalName="DnB-FamTree" />
+    <ConditionTag BackgroundColor="#00bfff" Name="DnB-Hoovers" Comment="Hoovers" />
+    <ConditionTag BackgroundColor="#00ff00" Name="DnB-MktInsight" Comment="Market&#160;Insight" />
+    <ConditionTag BackgroundColor="#8b4513" Name="DnB-Optimizer" Comment="Optimizer" />
+    <ConditionTag BackgroundColor="#ff00ff" Name="DnB-OptOnline" Comment="Optimizer Online" />
+    <ConditionTag BackgroundColor="#2f4f4f" Name="DnB-360" Comment="D&amp;B360" />
+    <ConditionTag BackgroundColor="#9acd32" Name="DnB-DNBi" Comment="DNBi" />
+    <ConditionTag BackgroundColor="#fa8072" Name="DnB-NoLogo" Comment="For non-product specific documents" />
+    <ConditionTag BackgroundColor="#4169e1" Name="DnB-Toolkit" Comment="Data Integration&#160;Toolkit" />
+    <ConditionTag BackgroundColor="#ff0000" Name="DnB-Direct1" Comment="Direct API 1.x (for version-specific materials)" />
+    <ConditionTag BackgroundColor="#2e8b57" Name="DnB-CM4SSIS" Comment="Cleanse/Match for SSIS" />
+    <ConditionTag BackgroundColor="#6b8e23" Name="DnB-SRMgr" Comment="Supplier Risk Manager" />
+    <ConditionTag BackgroundColor="#0000ff" Name="DnB-OnBoard" Comment="OnBoard (for US)" />
+</CatapultConditionTagSet>

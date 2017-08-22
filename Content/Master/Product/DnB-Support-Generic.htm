@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="12899.5" MadCap:lastWidth="797" MadCap:conditions="Master/DnB-Project.Incl-SupportDef" MadCap:searchable="False">
+    <head>
+        <link href="../../Resources/TableStyles/dnb_tablestyle_2.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../Resources/TableStyles/dnb_tablestyle_3.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h1>Introduction</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Introduction.flsnp" />
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">D&amp;B will provide technical support and assistance to <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> for the D&amp;B Software, D&amp;B Services, and the D&amp;B Data, at no additional cost, by telephone and email during Service Hours noted in the Support Process section of this document.</p>
+        <p>Unless otherwise indicated, all times mentioned in this document are in US Eastern Standard Time (EST)&#160;[or EDT while Daylight Savings Time is in effect].</p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-New-Customer.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Terminology.flsnp" />
+        <h1>API&#160;Performance</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Performance.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Availabilty.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Response-Times.flsnp" />
+        <table style="mc-table-style: url('../../Resources/TableStyles/dnb_tablestyle_2.css');" class="TableStyle-dnb_tablestyle_2" cellspacing="1">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr MadCap:conditions="Master/DnB-Project.Status-Descoped" class="TableStyle-dnb_tablestyle_2-Head-Header1">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">Operation(s)</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">Description</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1">Average Response Time per 1,000 Consecutive Requests</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr MadCap:conditions="Master/DnB-Project.Status-Descoped" class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Authentication (REST)</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Retrieval of Authentication&#160;Token (expires after eight hours)</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">1 second</td>
+                </tr>
+                <tr MadCap:conditions="Master/DnB-Project.Status-Descoped" class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">Company.Match/GetCleanseMatch</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">Entity Identification/Resolution</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1">2 to 5 seconds</td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Data-Protection.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-System-Outages.flsnp" />
+        <p style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">Each reported incident will be allocated a severity based on the business / Oracle  impact. The following definitions are used as guidelines for the allocation of incident severity 1 through 5: The severity initially assigned to an incident is based on the impact reported at the time. The severity will be reassessed in the event of further information being received and may be raised or lowered accordingly.</p>
+        <blockquote>
+            <p style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">
+                <b>Severity 1: Critical</b>
+                <br />Critical business impact affecting the D&amp;B Services and D&amp;B Software.<br />Any or all of the following constitute a severity 1:</p>
+            <ul>
+                <li style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">One or more D&amp;B Services are down;</li>
+                <li style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">Threshold standards for services are exceeded. No alternative or back up is available for a network communication issue;</li>
+                <li style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">A problem causing severely degraded service to the point that a system is essentially unavailable.</li>
+            </ul>
+            <p style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">
+                <b>Severity 2: Urgent</b>
+                <br />Significant business impact affecting the D&amp;B Services and D&amp;B Software<br />Any or all of the following constitute a severity 2:</p>
+            <ul>
+                <li style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">Alternative or back up is available for a network communications issue within 30 minutes of initial outage report. If downtime, after the initial outage report exceeds 30 minutes then the problem will be raised to a severity one;</li>
+                <li style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">A problem causing degraded service in which Oracle  is affected (e.g. poor response time;</li>
+                <li style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">Problems with a service affecting 10 or more cases.</li>
+            </ul>
+            <p style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">
+                <b>Severity 3: Important</b>
+                <br />Moderate business impact to production system, component or service.<br />Any of the following apply:</p>
+            <ul>
+                <li style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">Degraded service experienced by single or small number of users;</li>
+                <li style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">Problems with a service affecting less than 10 cases.</li>
+            </ul>
+            <p style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">
+                <b>Severity 4: Standard</b>
+                <br />Small business impact to production system, component or service.<br />Any of the following apply:</p>
+            <ul>
+                <li style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">Missing or inaccurate data on a small number of cases and not impacting decision making.</li>
+            </ul>
+            <p style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">
+                <b>Severity 5: Low</b>
+                <br />Potential business impact to one or more customers requiring investigation.<br />For example:</p>
+            <ul>
+                <li style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">Missing or inaccurate data on a single case and not impacting decision making;</li>
+                <li style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">Minor typographical error on API documentation.</li>
+            </ul>
+            <p style="font-style: italic;" MadCap:conditions="Master/DnB-Partners.Oracle">Note: Solutions to all problems may be subject to internal change control procedures (governing Change Request submission, scheduling, testing, implementation, verification, etc.)</p>
+        </blockquote>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Customer-Enviroment.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Usability.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Data-Quality.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Service-Updates.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Obsolescence-Policy.flsnp" />
+        <h1>Bulk&#160;Data Updates</h1>
+        <p>D&amp;B&#160;may provide <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> with periodic refresh updates on D&amp;B&#160;records per <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />'s contract. Each update will serve to provide any data required to synchronize <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />'s solution with the current WorldBase data at the time of fulfillment. The standard refresh period is, at a minimum, once per calendar month.</p>
+        <p>D&amp;B&#160;will notify <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> upon the availability of any delayed file due any changes in the fulfillment process.</p>
+        <h2>Delivery Issues</h2>
+        <p>Whenever <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> does not receive the expected periodic update, a technical support ticket should be opened.</p>
+        <h2>Quality Issues</h2>
+        <p>Whenever a delivered Bulk&#160;Update contains possible data corruption, a technical support ticket should be opened.</p>
+        <h1>Support Process</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Support-Process.flsnp" />
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">Tier 1 Support (<b>Oracle</b>) - This is the first level of support to be provided by Oracle to the end customer. Tier 1 team will be responsible for gathering the customer’s information and to determine the customer’s issue by analyzing the symptoms and figuring out the underlying problem. Once identification of the underlying problem is established, team can make a determination if the issue is within the Oracle solution/infrastructure or DNB components. Once the determination is made, Tier1 team will route the issue to the appropriate team at Oracle or DNB.</p>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">Tier 2 Support (<b>D&amp;B</b>) – Once the Tier 1 team has completed the initial triage and  determined the issue to be with DNB components; ticket will be opened by the Tier 1 team and assigned to Tier 2 support at DNB. This team will be responsible for doing the initial triage of the issue and identifying the unique DNB component that is the root cause of the issue. Tier 2 team will engage the appropriate DNB support team to resolve the issue in line with the SLA and timeline as detailed in this document.</p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Issue-Reporting.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Service-Levels.flsnp" />
+        <h3 MadCap:conditions="Master/DnB-Project.Role-Partner">Data Governance Process</h3>
+        <p MadCap:conditions="Master/DnB-Project.Role-Partner">The D&amp;B Customer Care Consultant group provides the following activities to address <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />'s concerns regarding possible systemic data issues.</p>
+        <table style="margin-left: 0;margin-right: auto;" class="TableStyle-dnb_tablestyle_2" cellspacing="1">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1" MadCap:conditions="Master/DnB-Project.Role-Partner">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">Activity</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1">D&amp;B&#160;Response</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Investigation process starts on area of concern</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>Complete initial investigation within five to seven business days (US <MadCap:variable name="Master/DnB-Branding.DnB-DUNS" /> issues) or 60 to business 90 days (non-US <MadCap:variable name="Master/DnB-Branding.DnB-DUNS" /> issues).</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Weekly Meeting to review data quality issues</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>Review concern and update or close.</p>
+                        <p>Convey and provide with understanding of the guiding principles/update schedule to the file for the concern in question.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>Periodic Data Governance Meeting</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1">
+                        <p>Discuss any additional concerns around data element and feedback on data element.</p>
+                        <p>Capture business need that stems from data element and discuss next steps with strategy and business.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Security-Breach.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Root-Cause-Analysis.flsnp" />
+        <h2>Appeal Processes</h2>
+        <p>After a support issue is resolved, an explanation of the resolution will be added to the <MadCap:variable name="Master/DnB-Partners.Support-Ticket" />, communicated to <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> and then closed. When <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> does not agree with the provided resolution, the following appeal options are provided.</p>
+        <h3>Technical Appeals</h3>
+        <p> Closed technical support tickets may be disputed within one week (5  business days), which may result in re-opening the original <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> and replying to the last known response from D&amp;B via the email feature to request another review.  <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> will have to provide additional support evidence on Appeal.</p>
+        <h3>Quality Appeals</h3>
+        <p> Closed data quality support tickets may be disputed within three (3) business days, which will require opening a new <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> and providing additional information that is different from what was provided the first time explaining why this case merits another review. <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> will reference the original <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> number.</p>
+    </body>
+</html>

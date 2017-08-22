@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Name="Book-SubTitle" Comment="" Definition="Some text" OriginalName="Book-SubTitle">(Project\Book-SubTitle in Target)</Variable>
+    <Variable Name="Book-Version" Comment="" Definition="Some text" OriginalName="Book-Version">(Project\Book-Version in Target) - May also be used for statements like "Prepared for ..."</Variable>
+    <Variable Name="Book-TOC-H1" Comment="">Contents</Variable>
+    <Variable Name="Book-Index-H1" Comment="">Index</Variable>
+    <Variable Name="Deck-Title" Comment="" Definition="Some text" OriginalName="Book-SubTitle">(Project\Deck-Title in Target)</Variable>
+    <Variable Name="Book-Heading" Comment="">(Project\Book-Heading in Target)</Variable>
+    <Variable Name="Book-Cover-Notes" Comment="">(Project\Book-Cover-Notes in Target) - Use this for stating document is DRAFT or CONFIDENTIAL or other disclaimer</Variable>
+    <Variable Name="Book-Support-Audience" Comment="">Customer</Variable>
+    <Variable Name="Book-Audience" Comment="users (or administrators)">(Project\Book-Audience in Target)</Variable>
+    <Variable Name="Book-Purpose" Comment="">(Project\Book-Purpose in Target)</Variable>
+    <Variable Name="Book-Training-Link" Comment="add URL&#160;hyperlink to training for your project">(Project\Book-Training-Link in Target)</Variable>
+    <Variable Name="Book-Related" Comment="insert titles of related documentation. Use refer for references outside of your document and see for cross references within your document.">(Project\Book-Related in Target)</Variable>
+    <Variable Name="Site-Analytics-Tag" Comment="docs.dnb.com = UA-53627116-1">UA-53627116-1</Variable>
+    <Variable Name="Site-Analytics-Dim1" Comment="DnB-Custom1">Dim1</Variable>
+    <Variable Name="Site-Analytics-Dim2" Comment="DnB-Custom2">Dim2</Variable>
+    <Variable Name="Site-Analytics-Dim3" Comment="DnB-Custom3">Dim3</Variable>
+</CatapultVariableSet>

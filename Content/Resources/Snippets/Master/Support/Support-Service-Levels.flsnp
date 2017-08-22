@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="3436.5" MadCap:lastWidth="1275">
+    <head>
+        <link href="../../../TableStyles/dnb_tablestyle_2.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h2 MadCap:conditions="Master/DnB-Project.Role-EndUser">Solution Support</h2>
+        <p>To ensure <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> receives timely and accurate responses from the D&amp;B&#160;support teams, please consider the following:</p>
+        <ul>
+            <li>Review product release notes to identify possible existing solutions to issues being experienced;</li>
+            <li>Notify D&amp;B in advance of any significant changes to <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> business practices;</li>
+            <li>Maintain accurate information on the Customer Information Sheet, and inform D&amp;B&#160;of any changes to <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> contact details;</li>
+            <li>
+                <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> is responsible for any non-D&amp;B&#160;API&#160;Solution components that the <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> controls directly or through vendor agreements, e.g. its own network, ISP, browser, etc.;</li>
+            <li>Provide D&amp;B support teams with critical information as soon as it is determined that a non-D&amp;B solution component is not at fault;</li>
+            <li>
+                <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> is responsible to ensure that the appropriate failover capabilities are implemented in the event of the product experiencing any unscheduled outage.</li>
+        </ul>
+        <h3 MadCap:conditions="Master/DnB-Project.Role-EndUser">Standard Support</h3>
+        <p MadCap:conditions="Master/DnB-Project.Role-EndUser">When <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> experiences technical issues implementing or deploying a D&amp;B&#160;solution, the D&amp;B&#160;technical support department is available 24x7x365 to assist.</p>
+        <p MadCap:conditions="Master/DnB-Project.Role-EndUser">In addition, <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> may elect to have a Technical Account Manager assigned for the initial six months of their initial contract period. See "Technical Account Management" for an explanation of the TAM&#160;role and responsibilities.</p>
+        <h3 MadCap:conditions="Master/DnB-Project.Role-EndUser">Premium Support (Optional)</h3>
+        <p MadCap:conditions="Master/DnB-Project.Role-EndUser">For the <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> who would like additional assistance during the implementation of a D&amp;B solution, and for more responsive technical issue resolutions, a premium support option is available. Benefits of D&amp;B&#160;Premium Support include the following:</p>
+        <ul>
+            <li MadCap:conditions="Master/DnB-Project.Role-EndUser">All standard support services, with accelerated acknowledgment, assessment and initial resolution determination on technical issues,</li>
+            <li MadCap:conditions="Master/DnB-Project.Role-EndUser">An assigned resource (the Technical Account Manager) available during regular business hours for the duration of the contract period in which Premium Support was elected. See "Technical Account Management" for an explanation of the TAM&#160;role and responsibilities.</li>
+        </ul>
+        <p>Premium Support does not include the support services provided by D&amp;B&#160;Customer Service, including, but not limited to, investigations, billing questions and/or products outside of this D&amp;B API&#160;Solution. Standard support processes and service levels will remain in force for those services.</p>
+        <h2>Service Levels</h2>
+        <p style="page-break-after: avoid;">D&amp;B is committed to honoring the following  service levels for <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> based on the types of issues experienced. Service levels define the expected response times <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> should expect during the period between initial contact (either by online form or phone) and the determination of a resolution, which may/may not encompass the duration required to implement a permanent resolution. D&amp;B&#160;will make every effort to provide a temporary solution whenever possible in cases where the permanent solution will be part of a future scheduled release.</p>
+        <p>In the following sections, the "acknowledged by D&amp;B" column represents the duration between the time the issue is submitted and D&amp;B&#160;acknowledgment of the issue to <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />. The "initial D&amp;B&#160;assessment" column represents the maximum acceptable duration for an issue to be addressed, the result of which will be either a temporary or permanent resolution plan. Actual resolution implementation may take longer, depending on the steps required to resolve a particular issue.</p>
+        <h3>
+            <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> Reporting of Technical Issues</h3>
+        <p>Every technical issue reported by <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> is evaluated by D&amp;B&#160;technical staff personnel to determine how to categorize (often referred to as severity level determination) and assign it for the quickest possible resolution. The following chart explains the time frame that <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> should expect to have their issue acknowledged (start of the assessment time period), and receive details of the initial assessment.</p>
+        <table cellspacing="1" class="TableStyle-dnb_tablestyle_2" style="mc-table-style: url('../../../TableStyles/dnb_tablestyle_2.css');">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" MadCap:conditions="Master/DnB-Project.Status-Draft" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" MadCap:conditions="Master/DnB-Project.Role-Partner" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1" MadCap:conditions="Master/DnB-Partners.!Oracle">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">Scenario&#160;Reported by <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /></th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">D&amp;B&#160;Incident Severity Level</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">Acknowledged by&#160;D&amp;B</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1" colspan="2">Initial D&amp;B&#160;Assessment<br /></th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1">Ongoing Updates<br /></th>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Subheading" MadCap:conditions="Master/DnB-Partners.!Oracle">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Subheading">&#160;</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Subheading">&#160;</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Subheading">&#160;</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Subheading">Standard</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Subheading">Premium (Optional)</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Subheading">&#160;</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1" MadCap:conditions="Master/DnB-Partners.!Oracle">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">API&#160;Service Outage</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Critical</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p MadCap:conditions="Master/DnB-Project.Role-Partner">If D&amp;B&#160;detected outage, notices sent within 45 minutes.</p>
+                        <p>If <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> initiates by Phone=30 minutes; by Web Form=2 hours (24x7)</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">4 hours</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">2 Hours</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p MadCap:conditions="Master/DnB-Project.Role-Partner">At least once every hour</p>
+                        <p MadCap:conditions="Master/DnB-Project.Role-EndUser">At least once every 2 hours</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1" MadCap:conditions="Master/DnB-Partners.!Oracle">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> Detected Problems</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">High</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p MadCap:conditions="Master/DnB-Project.Role-Partner">If <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> initiates by Phone=30 minutes; by Web Form=1 hour</p>
+                        <p MadCap:conditions="Master/DnB-Project.Role-EndUser">If <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> initiates by Phone=30 minutes; by Web Form=4 hours (24x7)</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p MadCap:conditions="Master/DnB-Project.Role-Partner">12 hours</p>
+                        <p MadCap:conditions="Master/DnB-Project.Role-EndUser">8 hours</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">4 Hours</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p MadCap:conditions="Master/DnB-Project.Role-Partner">At least once every two hours</p>
+                        <p MadCap:conditions="Master/DnB-Project.Role-EndUser">At least once every business day</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1" MadCap:conditions="Master/DnB-Partners.!Oracle">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Possible Defect,&#160;Known Issue being Resolved</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Medium</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">If <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> initiates by Phone=30 minutes; by Web Form=8 hours (24x7)</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">16 Hours</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">8 Hours</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">At least once every 3 business days*</td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1" MadCap:conditions="Master/DnB-Partners.!Oracle">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">Enhancement Request, Usability Concern</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">Low</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">If <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> initiates by Phone=30 minutes; by Web Form=12 hours (24x5)</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">16 Hours</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">12 Hours</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1">At least once every 5 business days*</td>
+                </tr>
+            </tbody>
+        </table>
+        <p MadCap:conditions="Master/DnB-Partners.!Oracle,Master/DnB-Project.Role-Partner">*Ongoing updates will be discontinued if it is determined that the stated issue will be resolved in a scheduled release. D&amp;B&#160;Technical Consultant will provide planned release date, and additional updates will occur if the schedule is revised.</p>
+        <p MadCap:conditions="Master/DnB-Partners.!Oracle,Master/DnB-Project.Role-EndUser">
+            <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> may elect to escalate a technical issue if the D&amp;B&#160;technical support team fails to acknowledge an issue, provide an initial assessment or ongoing updates within the stated time frames.</p>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">
+            <b>Severity 1</b> problems: D&amp;B will assign sufficient resources to resolve a Severity 1 problem as quickly as possible with the goal of maintaining the service level defined in this document. D&amp;B aims to resolve a Severity 1 problem within 4 hours and will use continuous effort to restore the service to normal operations.</p>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">D&amp;B typically resolves over 90% of Severity 1 problems within the SLA target.</p>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">
+            <b>Severity 2</b> problems; D&amp;B will assign sufficient resources to fix the problem within the target resolution time frame of 24 hours.</p>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">The timescale for resolution of severity levels 3, 4 and 5 is contingent upon local Service Levels or Management discretion.  Code fixes will be prioritized according to the amount of open Severity 1 / 2 also being worked on. Where possible, D&amp;B aim to slot fixes into the next scheduled release for that particular platform.</p>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">Maximum time frame for initial response for all inbound issues will be 24 hours.</p>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">Ongoing communication with the customer will be determined following initial contact and be based on mutual agreement of the Severity of the issue.</p>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">Communication Service Level Agreement will be based on normal business hours, 8:00 am – 7:00 pm Eastern, Monday through Friday, excluding D&amp;B holidays.</p>
+        <h3 MadCap:conditions="Master/DnB-Product.DnB-Direct">Technical Issue Assessment</h3>
+        <p MadCap:conditions="Master/DnB-Product.DnB-Direct">D&amp;B&#160;technical staff personnel compare the new technical issue to the history of reported and known issues to identify existing resolutions, they will attempt to recreate the scenario (if applicable) and when that does not provide results the problem is escalated to internal D&amp;B Information Technology (IT) teams for assistance in determining the cause of the technical issue being reported.</p>
+        <p MadCap:conditions="Master/DnB-Project.Status-Draft">When this initial assessment process is completed the D&amp;B&#160;support person will assign an Internal Incident Severity based, and contact <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> to provide either a resolution or the proposed plan for achieving a resolution. When available, the D&amp;B&#160;support person will provide a temporary resolution (often referred to as a workaround) to provide immediate relief from the technical issue.</p>
+        <p MadCap:conditions="Master/DnB-Project.Status-Draft,Master/DnB-Product.DnB-Direct">Should, based on further analysis or review of the technical issue, D&amp;B&#160;elects to modify the Internal Incident Severity for a reported technical issue, a D&amp;B&#160;support person will communicate to <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> the change along with an explanation of how this may impact the time expected to determine the appropriate resolution.</p>
+        <h3 MadCap:conditions="Master/DnB-Project.Status-Draft,Master/DnB-Product.DnB-Direct">Internal Incident Severity</h3>
+        <p MadCap:conditions="Master/DnB-Project.Status-Draft,Master/DnB-Product.DnB-Direct">Many of D&amp;B's product solutions involve a variety of internal systems, infrastructure and equipment. As such, some technical issues may require assistance from multiple D&amp;B&#160;internal teams to determine a resolution. To ensure that <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> receives a prompt assessment and resolution plan, D&amp;B&#160;has established the following categories which dictate how quickly these internal resources must respond.</p>
+        <h4 MadCap:conditions="Master/DnB-Project.Status-Draft,Master/DnB-Product.DnB-Direct">Category 1: Critical, Impact&#160;has Occurred</h4>
+        <p MadCap:conditions="Master/DnB-Project.Status-Draft,Master/DnB-Product.DnB-Direct">Production systems are down and no immediate workaround is available. Business loss has occurred. Once the environment is functional, the issue would be downgraded to Category 2.</p>
+        <h4 MadCap:conditions="Master/DnB-Project.Status-Draft,Master/DnB-Product.DnB-Direct">Category 2: High Impact</h4>
+        <p MadCap:conditions="Master/DnB-Project.Status-Draft,Master/DnB-Product.DnB-Direct">Major impact to production systems; Operations can continue although Business loss is evident; Work around is available; Major milestone is at Risk.</p>
+        <h4 MadCap:conditions="Master/DnB-Project.Status-Draft,Master/DnB-Product.DnB-Direct">Category 3: Medium Impact</h4>
+        <p MadCap:conditions="Master/DnB-Project.Status-Draft,Master/DnB-Product.DnB-Direct">The system is accessible and functional but customer is having problems; Operations can continue and business loss is possible; Work around may or may not be available; Minimal risk to project milestones.</p>
+        <h4 MadCap:conditions="Master/DnB-Project.Status-Draft,Master/DnB-Product.DnB-Direct">Category 4: Low Impact</h4>
+        <p MadCap:conditions="Master/DnB-Project.Status-Draft,Master/DnB-Product.DnB-Direct">The system is operating as expected however the customer is requesting informational assistance; General Support questions; Would like to make an enhancement request.</p>
+        <h3 MadCap:conditions="Master/DnB-Product.DnB-Direct">Issue Resolution Commitments</h3>
+        <p MadCap:conditions="Master/DnB-Product.DnB-Direct">Based on the assessed Internal Incident Severity, the D&amp;B&#160;support person will engage and coordinate the necessary resources to achieve a temporary resolution or permanent resolution plan within the following service targets. For Category 1 issues, this includes  restoration of the customer’s environment to an acceptable level of functionality.</p>
+        <table style="width: 100%;mc-table-style: url('../../../TableStyles/dnb_tablestyle_2.css');" class="TableStyle-dnb_tablestyle_2" cellspacing="1" MadCap:conditions="Master/DnB-Product.DnB-Direct">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">Internal Incident Severity</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">Commitment to Resolution Plan (from time of D&amp;B&#160;Assessment)</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1" colspan="2">Ongoing Updates</th>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Subheading">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Subheading">&#160;</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Subheading">&#160;</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Subheading">Standard</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Subheading">Premium (Optional)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1" MadCap:conditions="Master/DnB-Product.DnB-Direct">Category 1</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1" MadCap:conditions="Master/DnB-Product.DnB-Direct">2 hours</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1" MadCap:conditions="Master/DnB-Product.DnB-Direct">Every 2 Hours</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">Every&#160;Hour</td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1" MadCap:conditions="Master/DnB-Product.DnB-Direct">Category 2</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1" MadCap:conditions="Master/DnB-Product.DnB-Direct">4 hours</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1" MadCap:conditions="Master/DnB-Product.DnB-Direct">Every 4 Hours</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">Every 2 Hours</td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1" MadCap:conditions="Master/DnB-Product.DnB-Direct">Category 3</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1" MadCap:conditions="Master/DnB-Product.DnB-Direct">Varies based on D&amp;B&#160;Assessment</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1" MadCap:conditions="Master/DnB-Product.DnB-Direct">Every 5 to 10 Business Days</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">Every 3 Business Days</td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1" MadCap:conditions="Master/DnB-Product.DnB-Direct">Category 4</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1" MadCap:conditions="Master/DnB-Product.DnB-Direct">Varies based on D&amp;B&#160;Assessment</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1" MadCap:conditions="Master/DnB-Product.DnB-Direct">Every 5 to 10 Business Days</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1">Every 5 Business Days</td>
+                </tr>
+            </tbody>
+        </table>
+        <p MadCap:conditions="Master/DnB-Partners.!Oracle,Master/DnB-Project.Role-EndUser">
+            <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> may elect to escalate a technical issue if the D&amp;B&#160;technical support team fails to provide a resolution plan or ongoing updates within the stated time frames, and/or if the resolution plan does not acceptably address the issue.</p>
+        <h3 MadCap:conditions="Master/DnB-Product.DnB-Direct">Escalating a Technical Issue</h3>
+        <p MadCap:conditions="Master/DnB-Product.DnB-Direct">While the D&amp;B&#160;support team makes every effort to meet the objectives detailed in this document, and provide <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> with a satisfactory resolution to their issue, there may be instances when <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> does not feel that the process and/or resolution adequately met the needs of their business and/or the expectations set by this document. In those cases, <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> may request (via email)&#160;to have a specific support issue reviewed.</p>
+        <p MadCap:conditions="Master/DnB-Product.DnB-Direct">Please provide the support ticket number along with any details of <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> understanding of how the issue was (or was not)&#160;addressed by the D&amp;B&#160;support team.</p>
+        <p MadCap:conditions="Master/DnB-Product.DnB-Direct" style="page-break-after: avoid;">For an initial escalation:</p>
+        <table style="width: 100%;mc-table-style: url('../../../TableStyles/dnb_tablestyle_2.css');" class="TableStyle-dnb_tablestyle_2" cellspacing="1" MadCap:conditions="Master/DnB-Product.DnB-Direct">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">Standard</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1">Premium (Optional)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">Please contact the Global Support Team lead, Mr. Sreekanth Teegala at <a href="mailto:TeegalaS@DNB.com">TeegalaS@DNB.com</a>.</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1">Please contact the assigned Technical Account Manager.</td>
+                </tr>
+            </tbody>
+        </table>
+        <p MadCap:conditions="Master/DnB-Product.DnB-Direct" style="page-break-after: avoid;">When the initial escalation does not sufficiently address <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /> concerns:</p>
+        <table style="width: 100%;mc-table-style: url('../../../TableStyles/dnb_tablestyle_2.css');" class="TableStyle-dnb_tablestyle_2" cellspacing="1" MadCap:conditions="Master/DnB-Product.DnB-Direct">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">Standard</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1">Premium (Optional)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1" colspan="2">Please contact the Global Support Team manager, Mr. Eric Rotella at <a href="mailto:RotellaE@DNB.com">RotellaE@DNB.com</a>.</td>
+                </tr>
+            </tbody>
+        </table>
+        <h3 MadCap:conditions="Master/DnB-Project.Role-Partner">Data Quality Support</h3>
+        <table cellspacing="1" class="TableStyle-dnb_tablestyle_2" style="mc-table-style: url('../../../TableStyles/dnb_tablestyle_2.css');">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1" MadCap:conditions="Master/DnB-Project.Role-Partner">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1" MadCap:conditions="Master/DnB-Project.Role-Partner">Scenario Reported by <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /></th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1" MadCap:conditions="Master/DnB-Project.Role-Partner">Acknowledged by&#160;D&amp;B</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1" MadCap:conditions="Master/DnB-Project.Role-Partner">Initial D&amp;B&#160;Assessment<br /></th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1" MadCap:conditions="Master/DnB-Project.Role-Partner">Ongoing Updates<br /></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">Single D-U-N-S Number Data Validation/Review</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">1 business day</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">5 to 7 business days (US records), 60 to 90 business days (non-US records)</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">n/a, however these cases may be reviewed during Data&#160;Governance Process meetings.</td>
+                </tr>
+            </tbody>
+        </table>
+        <h3 MadCap:conditions="Master/DnB-Project.Role-Partner">Bulk&#160;Data Support</h3>
+        <table cellspacing="1" class="TableStyle-dnb_tablestyle_2" style="mc-table-style: url('../../../TableStyles/dnb_tablestyle_2.css');">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1" MadCap:conditions="Master/DnB-Project.Role-Partner">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1" MadCap:conditions="Master/DnB-Project.Role-Partner">Scenario reported by <MadCap:variable name="Master/DnB-Project.Book-Support-Audience" /></th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1" MadCap:conditions="Master/DnB-Project.Role-Partner">Acknowledged by&#160;D&amp;B</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1" MadCap:conditions="Master/DnB-Project.Role-Partner">Initial D&amp;B&#160;Assessment<br /></th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1" MadCap:conditions="Master/DnB-Project.Role-Partner">Ongoing Updates<br /></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">Delivery&#160;Lapse*</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">1 business day</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">3 business days</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">At least once every business day</td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">Possible Data Corruption</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">1 business day</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">5 to 7 business days (US records), 60 to 90 business days (non-US records)</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1" MadCap:conditions="Master/DnB-Project.Role-Partner">At least once every business day</td>
+                </tr>
+            </tbody>
+        </table>
+        <p MadCap:conditions="Master/DnB-Project.Role-Partner">*Lapse is defined as file not delivered by the last calendar day of the refresh period.</p>
+        <h3 MadCap:conditions="Master/DnB-Partners.Netsuite">DNBi Support for NetSuite Customers</h3>
+        <p MadCap:conditions="Master/DnB-Partners.Netsuite">NetSuite customers who select the DNBi option as part of their solution will be instructed by a D&amp;B representative to utilize either a web form or 800 number for submitting DNBi product support requests (excludes data-related issues).</p>
+        <p MadCap:conditions="Master/DnB-Partners.Netsuite">NetSuite customers should utilize the DNBi <i>Order Investigation</i> feature to resolve any data-related issues.</p>
+        <h3 MadCap:conditions="Master/DnB-Partners.Netsuite">DNBi Education Options for NetSuite Customers</h3>
+        <p MadCap:conditions="Master/DnB-Partners.Netsuite">NetSuite customers will be permitted to take advantage of existing DNBi training modules which are accessible from within the DNBi interface.</p>
+    </body>
+</html>

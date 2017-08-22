@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Title Page (Master)" Link="/Content/Master/Branding/DnB_Title.htm" BreakType="chapter" PageType="title" AutoEndOnLeftPage="disabled" StartSection="false" PageLayout="/Content/Resources/PageLayouts/DnB-TitlePage.flpgl" PageNumberReset="reset" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="continue" PageNumberFormat="lower-roman" PageNumber="1" SectionNumberFormat="Title Page">
+    </TocEntry>
+    <TocEntry Title="Copyright (Master)" Link="/Content/Master/Branding/DnB_Copyright.htm" BreakType="chapter" PageLayout="/Content/Resources/PageLayouts/DnB-Copyright.flpgl" AutoEndOnLeftPage="disabled" StartSection="false" PageNumberReset="continue" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="same" />
+    <TocEntry Title="Table of Contents (Master)" Link="/Content/Master/Style/DnB_Table_of_Contents.htm" BreakType="chapter" PageType="first" PageLayout="/Content/Resources/PageLayouts/DnB-Chapter.flpgl" StartSection="false" PageNumberReset="continue" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="same" AutoEndOnLeftPage="disabled">
+    </TocEntry>
+    <TocEntry Title="Introduction" StartSection="false" BreakType="chapter" PageType="first" AutoEndOnLeftPage="disabled" PageNumberReset="reset" PageNumber="{chapnum}-{n}" PageNumberFormat="text" ChapterNumberReset="reset" ChapterNumber="1" PageLayout="/Content/Resources/PageLayouts/DnB-Chapter.flpgl" SectionNumberReset="continue" VolumeNumberReset="same" Link="/Content/Master/Product/DnB-Support-Intro.htm">
+    </TocEntry>
+    <TocEntry Title="API Performance" StartSection="false" BreakType="chapter" AutoEndOnLeftPage="disabled" PageNumberReset="reset" PageNumber="{chapnum}-{n}" PageNumberFormat="text" ChapterNumberReset="reset" ChapterNumber="1" PageLayout="/Content/Resources/PageLayouts/DnB-Chapter.flpgl" SectionNumberReset="continue" VolumeNumberReset="same" Link="/Content/Master/Product/DnB-Support-Direct2.htm" ComputeToc="false" ReplaceMergeNode="false" PageType="first" />
+    <TocEntry Title="First Appendix" Link="/Content/Master/Product/Appendix-Regional-Hosts.htm" BreakType="chapter" PageNumberReset="reset" StartSection="false" PageNumber="{chapnum}-{n}" PageLayout="/Content/Resources/PageLayouts/DnB-Chapter.flpgl" PageNumberFormat="text" ChapterNumberReset="reset" ChapterNumber="A" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberFormat="upper-alpha">
+    </TocEntry>
+    <TocEntry Title="Next Appendix" Link="/Content/Master/Product/Appendix-Revision-Log.htm" BreakType="chapter" PageNumberReset="reset" StartSection="false" PageNumber="{chapnum}-{n}" PageLayout="/Content/Resources/PageLayouts/DnB-Chapter.flpgl" PageNumberFormat="text" ChapterNumberReset="continue" ChapterNumber="A" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberFormat="upper-alpha">
+    </TocEntry>
+    <TocEntry Title="Back Cover (Master)" Link="/Content/Master/Branding/DnB_Back_Cover.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/DnB-BackCover.flpgl" PageType="left" AutoEndOnLeftPage="disabled">
+    </TocEntry>
+</CatapultToc>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="883" MadCap:lastWidth="777">
+    <head>
+        <link href="../../../TableStyles/dnb_tablestyle_3.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h2>Reporting Issues</h2>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle" style="font-style: italic;">In the event that Oracle experiences a problem with the production D&amp;B Services, D&amp;B Software and/or D&amp;B Data, report this to D&amp;B and the support team will provide Oracle  with a case number. This case number should be quoted in any subsequent communication with the support team concerning the incident. Email communication regarding the incident will include this case number in the subject line of the message, and email replies to D&amp;B should retain this subject line to track incident history.</p>
+        <p>
+            <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> is encouraged to contact our technical support department as soon as technical issues are detected. Incidents can be opened through the use of <MadCap:snippetText src="Support-Form-Link.flsnp" />. When opening an incident, please provide as much detailed information as possible to help ensure a prompt resolution.</p>
+        <p class="note" MadCap:conditions="Master/DnB-Partners.Salesforce-Data" MadCap:autonum="&lt;b&gt;NOTE: &lt;/b&gt;">Salesforce Data.com related incidents may also be opened by submitting an email using a pre-formatted template. Please follow the process explained in the following section.</p>
+        <p>For <i><MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> Detected Problems</i>, AFTER&#160;OPENING&#160;A&#160;TICKET&#160;USING&#160;THE&#160;ONLINE&#160;FORM, <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> may optionally contact the D&amp;B&#160;technical support department by calling <MadCap:variable name="Master/DnB-Product.DnB-Customer-Svc" />, which is available 24x7x365.</p>
+        <p MadCap:conditions="Master/DnB-Project.Status-Descoped">For <i><MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> Detected Problems</i>, AFTER&#160;OPENING&#160;A&#160;TICKET&#160;USING&#160;THE&#160;ONLINE&#160;FORM, <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> may optionally contact the D&amp;B&#160;technical support department by calling <MadCap:variable name="Master/DnB-Product.DnB-Customer-Svc" />, Monday to Friday, 8am - 6pm EST&#160;(or EDT while Daylight Savings Time is in effect), excluding D&amp;B&#160;office holidays in the United States.</p>
+        <table style="mc-table-style: url('../../../TableStyles/dnb_tablestyle_3.css');" class="TableStyle-dnb_tablestyle_3" cellspacing="1">
+            <col class="TableStyle-dnb_tablestyle_3-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_3-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_3-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_3-Head-Header1" MadCap:conditions="Master/DnB-Project.Status-Descoped" style="height: -229px;">
+                    <th class="TableStyle-dnb_tablestyle_3-HeadD-Column1-Header1" colspan="3">Technical Support Hours</th>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_3-Head-Subheading" MadCap:conditions="Master/DnB-Project.Status-Descoped">
+                    <th class="TableStyle-dnb_tablestyle_3-HeadE-Column1-Subheading">Time Zone</th>
+                    <th class="TableStyle-dnb_tablestyle_3-HeadE-Column1-Subheading">Days</th>
+                    <th class="TableStyle-dnb_tablestyle_3-HeadD-Column1-Subheading">Hours</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_3-Body-Body1" MadCap:conditions="Master/DnB-Project.Status-Descoped">
+                    <td class="TableStyle-dnb_tablestyle_3-BodyE-Column1-Body1">Pacific (PST)</td>
+                    <td class="TableStyle-dnb_tablestyle_3-BodyE-Column1-Body1">Monday through Friday</td>
+                    <td class="TableStyle-dnb_tablestyle_3-BodyD-Column1-Body1">05:00 - 15:00</td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_3-Body-Body1" MadCap:conditions="Master/DnB-Project.Status-Descoped">
+                    <td class="TableStyle-dnb_tablestyle_3-BodyE-Column1-Body1">Eastern (EST)</td>
+                    <td class="TableStyle-dnb_tablestyle_3-BodyE-Column1-Body1">Monday through Friday</td>
+                    <td class="TableStyle-dnb_tablestyle_3-BodyD-Column1-Body1">08:00 - 18:00</td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_3-Body-Body1" MadCap:conditions="Master/DnB-Project.Status-Descoped">
+                    <td class="TableStyle-dnb_tablestyle_3-BodyB-Column1-Body1">Greenwich (GMT)</td>
+                    <td class="TableStyle-dnb_tablestyle_3-BodyB-Column1-Body1">Monday through Friday</td>
+                    <td class="TableStyle-dnb_tablestyle_3-BodyA-Column1-Body1">13:00 - 23:00</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>When an incident is opened, a ticket case number will be assigned. Please provide the ticket number in all subsequent communication to avoid any delays that may occur by the creation of a separate ticket for the same incident.</p>
+        <p>The D&amp;B&#160;Technical Consultant will provide incident updates either by phone or email depending on the issue, or if <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> has specified a preference. When a support ticket is assigned, <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> will receive the contact details for the Technical Consultant and may dialog with them for periodic interim updates, as needed.</p>
+        <p>The ticket tracking system used by D&amp;B will deliver email messages at different stages of the incident management process. <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> may reply to these tickets, however, in order for the response to be properly routed and addressed in a timely fashion, the email subject&#160;(which contains the case number and a support reference identifier) must NOT be altered.</p>
+    </body>
+</html>

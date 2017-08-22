@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="1" MadCap:lastHeight="37" MadCap:lastWidth="842">
+    <body>
+        <span MadCap:conditions="Master/DnB-Partners.!SugarCRM,Master/DnB-Partners.!Oracle,Master/DnB-Partners.!Informatica">email</span>
+        <a href="mailto:SugarDataQualitySupport@DNB.com" MadCap:conditions="Master/DnB-Partners.SugarCRM">SugarDataQualitySupport@DNB.com</a>
+        <a href="mailto:OracleDataQualitySupport@DNB.com" MadCap:conditions="Master/DnB-Partners.Oracle">OracleDataQualitySupport@DNB.com</a>
+        <a href="mailto:InformaticaDataQualitySupport@DNB.com" MadCap:conditions="Master/DnB-Partners.Informatica">InformaticaDataQualitySupport@DNB.com</a>
+    </body>
+</html>

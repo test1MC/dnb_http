@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="412" MadCap:lastWidth="910">
+    <head>
+        <script type="text/javascript">/*<![CDATA[*/			
+			function ipToNumber(ip) {
+			var d = ip.split('.');
+			var n=d[0]*Math.pow(256,3);
+			n+=d[1]*Math.pow(256,2);
+			n+=d[2]*256;
+			n+=+d[3];
+			return n; }
+			
+			function parameterToDimension(parameter) {
+			var p = window.frames.top.location.split("?")[1].split("&");
+			var t;
+			for(var i=0; i < p.length; i++){
+			t = p[i].split("=");
+			if(t[0] == parameter) return t[1];
+			}
+			return ""; }
+			
+			var userIP = ipToNumber(Request.UserHostAddress);
+			var dnbLO = ipToNumber('158.151.0.0'); // D&B public network range per 
+			var dnbHI = ipToNumber('159.137.0.0'); // Steve Green, July 18, 2014
+		/*]]>*/</script>
+    </head>
+    <body>
+        <p class="master_page_logo">
+            <img src="../Images/Master/Branding/DB_WORDMARK_RGB.png" style="width: 2.5in;height: auto;" />
+        </p>
+        <MadCap:breadcrumbsProxy />
+        <MadCap:bodyProxy />
+        <p>
+            <script>/*<![CDATA[*/			
+				document.writeln("Network:" + (userIP<dnbLO||userIP>dnbHI)? "" : "D&B" ));
+		/*]]>*/</script>
+        </p>
+        <p>
+            <script>/*<![CDATA[*/			
+				document.writeln("Source:" + parameterToDimension('DnB-Source'));
+		/*]]>*/</script>
+        </p>
+        <p class="master_page_source">Source: <MadCap:variable name="Master/DnB-Product.DnB-NoName" />, <MadCap:variable name="Master/DnB-Project.Book-SubTitle" />, <MadCap:variable name="System.LongDate" /></p>
+        <p class="copyright_footer">
+            <MadCap:variable name="Master/DnB-Branding.Copyright&#160;(Full)" />
+        </p>
+    </body>
+</html>

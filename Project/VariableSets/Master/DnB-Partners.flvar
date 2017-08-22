@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="Microsoft-MSD">Microsoft Dynamics&#160;CRM</Variable>
+    <Variable Comment="" Name="SAP">SAP&#160;CRM</Variable>
+    <Variable Name="Partner-NoName" Comment="Generic variable for reusable content that wishes to name the partner," OriginalName="Partner-NoName">Partner</Variable>
+    <Variable Name="Support-Ticket" Comment="Can be overridden for partner specific terminology." OriginalName="Support-Ticket">support ticket</Variable>
+    <Variable Name="Microsoft-WAM" Comment="">Windows Azure Marketplace</Variable>
+    <Variable Name="Partner-Solution" Comment="" OriginalName="Partner-Solution">partner solution</Variable>
+</CatapultVariableSet>

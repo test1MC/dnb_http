@@ -1,0 +1,864 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" MadCap:lastBlockDepth="8" MadCap:lastHeight="11367" MadCap:lastWidth="713" MadCap:conditions="Master/DnB-Project.Incl-SupportDef" MadCap:searchable="False">
+    <head>
+        <link href="../../Resources/TableStyles/dnb_tablestyle_2.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h1>Introduction</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Introduction.flsnp" />
+        <h2>Helpful Terminology</h2>
+        <h3>Support Definitions</h3>
+        <p>“Acknowledged by D&amp;B” the duration between the time the issue is submitted to D&amp;B by <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> and D&amp;B’s acknowledgment of the issue to <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />.</p>
+        <p>"Customer core business impacted" is defined on a case-by-case basis by <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />.</p>
+        <p>“Issue Definition” means the description of issues impacting user(s) per Severity Level Table as decided by <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> representative.</p>
+        <p>“Notification Channel” is the means through which a message is sent by <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> to D&amp;B through <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> creation, 800 telephone support number, email alias.</p>
+        <p>“Resolved SLA by D&amp;B” the maximum duration by which the issue is considered resolved by <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />.</p>
+        <p>“Resolution” a written acceptance through Notification channel that Issue has been resolved to <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />’s satisfaction.</p>
+        <p>“Security breach / Lost Data” shall mean data is compromised or lost.</p>
+        <p>“Severity Levels” level at which issues will be categorized and handled according to assigned severity.  The severity level will be decided by the <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> representative at time of <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> creation at its sole discretion and in line with the definitions in this document.</p>
+        <p>“Update by D&amp;B” the duration by which the issue is updated by D&amp;B to <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />.</p>
+        <p>"Data Quality" covers to the state of completeness, validity, consistency, timeliness and accuracy that makes data appropriate for a specific use.</p>
+        <h3>Severity Level Terms</h3>
+        <p>“Outage” Critical production issue affecting all users of <MadCap:variable name="Master/DnB-Partners.Partner-Solution" />, including system unavailability or bugs having a significant impact. There is no workaround available and resolution is required immediately or within the boundaries of the Service Level Agreement (SLA) defined below.</p>
+        <p>“System-Wide or Multi-customer Regression” Fundamental, system-related issue affecting multiple customers that occurs after a release or patch. Functionality, which was previously working before a patch/major, release and is no longer functioning as it was previously. This is NOT a performance issue affecting only a single customer.</p>
+        <p>Customers will most likely experience systemic regression issues due to poor performing pl/SQL and/or app server “out of memory” conditions.</p>
+        <p>“Data Corruption” Data customers rely upon have been overwritten with incorrect or otherwise out of date data.</p>
+        <p>“Data Breach” Applications, databases, or files have been accessed by those other than explicitly defined users.</p>
+        <p>“Data Theft” Loss of data asset to unauthorized parties or for unintended use</p>
+        <h1>API Performance</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Performance.flsnp" />
+        <h2>Availability</h2>
+        <p>The D&amp;B APIs that <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> requires access to in order to deliver the Combined Offerings will each have an availability rate of 99.00% (excluding scheduled maintenance and downtime, which will take place during a weekly window from 11:00 PM Saturday night until 9:00 AM Sunday morning (unless otherwise notified to <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> at least 48 hours in advance), not to exceed ten (10) hours per week,</p>
+        <h2>Response Times</h2>
+        <p>The average response time  should be of less than or equal to three (3) seconds, (except for Family Tree, which may have an average response time of less than four (4) seconds) as calculated for a given calendar month; provided, that in no event shall an API suffer outage(s) exceeding forty eight (48) hours in the aggregate in a given calendar month.</p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Data-Protection.flsnp" />
+        <h1>Support Process</h1>
+        <p>As issues arise, this process should be followed. It aligns <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> and D&amp;B severity level definitions, issues, acknowledgment, updates and resolution timeline.  In addition, it outlines the notification process and escalation matrix.</p>
+        <h2>Severity Levels</h2>
+        <h3>Reporting an Outage to D&amp;B</h3>
+        <table style="border-left-style: solid;border-left-width: 1px;border-left-color: #006699;border-right-style: solid;border-right-width: 1px;border-right-color: #006699;border-top-style: solid;border-top-width: 1px;border-top-color: #006699;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #006699;mc-table-style: url('../../Resources/TableStyles/dnb_tablestyle_2.css');" class="TableStyle-dnb_tablestyle_2" cellspacing="1">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Severity Level</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Issue Definition</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Notification Channel</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Acknowledged by D&amp;B</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Update by D&amp;B</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1">
+                        <p>Resolved SLA by D&amp;B</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Level 1 - Critical</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>D&amp;B API Outage:</p>
+                        <p>Critical production issue affecting all <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> users, including system unavailability having a significant impact  There is no workaround available</p>
+                        <p>D&amp;B API System-Wide or Multi-customer Regression:</p>
+                        <p>Fundamental, system-related issue affecting multiple customers that occurs after a release or patch.</p>
+                        <p>Functionality which was previously working before a patch/major release and is no longer functioning as it was previously. This is NOT a performance issue affecting only a single customer.</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> submitted to D&amp;B then</p>
+                        <p>call D&amp;B Technical Operations and Services 866-465-3829  - 24 X 7</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> will send automatic response</p>
+                        <p>Talk to Technician when call immediately</p>
+                        <p>*If technician not available, will respond within ½ hour</p>
+                        <p>45 Minutes – technician on line</p>
+                        <p>*If technician not available, will respond within ½ hour</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Every Hour</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>4 hours</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>
+                            <i>Examples</i>
+                        </p>
+                        <ul style="list-style-type: disc;margin-left: 36pt;">
+                            <li style="list-style-type: disc;">D&amp;B cleanse match api not available</li>
+                            <li style="list-style-type: disc;">D&amp;B System wide outage</li>
+                            <li style="list-style-type: disc;">D&amp;B Major release impact API from performing</li>
+                            <li style="list-style-type: disc;">API  - Match/Services API Down</li>
+                        </ul>
+                        <p>Scenarios:</p>
+                        <ol style="list-style-type: decimal;margin-left: 36pt;" start="1">
+                            <li>CM004 error message - no response</li>
+                            <li>Cannot find connection Internet/firewall – http timeout</li>
+                            <li>Unable to initiate connections</li>
+                        </ol>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Level 2 - Urgent</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Major functionality is impacted or performance is significantly degraded.</p>
+                        <p> Issue is persistent and affects many Users (2 or more customers) and/or major functionality.  No reasonable workaround is available.</p>
+                        <p>Note: D&amp;B is not responsible for the traffic delays from Internet service providers.   Ex. Verizon outage. Communication of updates will still apply.</p>
+                        <p>APIs:</p>
+                        <p>Match/Services API Down :</p>
+                        <p>Performance sudden degradation in response times</p>
+                        <p>Increase in daily response time above average SLA threshold for an extended time period</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> submitted to D&amp;B then</p>
+                        <p>call D&amp;B Technical Operations and Services 866-465-3829  - 24 X 7</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> will send acknowledgement immediately</p>
+                        <p>Talk to technician immediately</p>
+                        <p>If technician not available will respond within ½ hour</p>
+                        <p>1 Hour</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Every 2 Hours</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>12 Hours</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Level 3 - High</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>System performance issue of bug affecting some but not all users.  Short-term workaround is available, but not scalable.</p>
+                        <p>-Performance or Feature Regression Not Core to Customer's Business OR Non-Regression issue<br />Performance and Feature regressions as defined for Sev2, but issue does not impact customer's core business functions.</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>
+                            <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> submitted to D&amp;B.</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>1 business day</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Every 3 days</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>TBD</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>
+                            <i>Examples</i>
+                        </p>
+                        <p>Impact limited to one or a handful of the customer's users</p>
+                        <p>Field Level incorrectly functioning or not working</p>
+                        <p>Inquiry regarding a routine technical issue; information requested on application capabilities, navigation, installation or configuration; bug affecting a small number of users. Reasonable workaround available. Resolution required as soon as reasonably practicable.</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">&#160;</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">&#160;</td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>Level 4 – Medium</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>To communicate with Developers any questions/requests  around the API’s</p>
+                        <p>Implementation Support  case opened-</p>
+                        <p>Pre production questions</p>
+                        <p>Post production questions.</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> submitted to D&amp;B.</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>1 Business Day</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>Every 5 days</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1">
+                        <p>TBD</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>D&amp;B Reporting Outage to <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> Team</h3>
+        <h4>Plan A: Report outage via Email Process</h4>
+        <p>For a Severity 1, D&amp;B Service Management will send out an email to include the Partner Outage Communication (Distribution List ) on DUNSRight Match API service, infrastructure, match engine according to the SLA in this document.   The email will be sent out within 45 minutes per the SLA.</p>
+        <p>If <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> alerts D&amp;B that an outage has occurred and D&amp;B did not know it, D&amp;B will still send out the Partner Outage communication to <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> team after verification.</p>
+        <ul style="list-style-type: square;margin-left: 36pt;">
+            <p>Exception:&#160;  If it only affects <MadCap:variable name="Master/DnB-Partners.Partner-Solution" />, then D&amp;B will send out a notice to the email address:  ddc-dnb-escalation@salesforce.com</p>
+        </ul>
+        <p>Please refer to the Appendix attached to this document for current list of distribution list members.</p>
+        <h4>Plan B: Report outage via Phone Process</h4>
+        <h4>Scenario: Email is not functioning; Need to Use Phone Distribution List (for API outages only)</h4>
+        <ul>
+            <li>Step 1: The primary phone distribution # is (650) 393-7055, that number will ring on the oncall person from <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> TechOps team.</li>
+            <li>Step 2: If it needs to be escalated D&amp;B can reach Javier Ordonez (Sr. Director TechOps) at his cell phone (408) 209-5634.</li>
+        </ul>
+        <h2>Contacting D&amp;B</h2>
+        <h3>Telephone Support for Severity 1 &amp; 2 Issues</h3>
+        <p>D&amp;B provides telephone support available twenty-four hours a day, seven days a week. Calls placed to D&amp;B will normally be answered by Technical Support and services.</p>
+        <p>-Case must first be created by the Product Owner per the defined process and then <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> TechOps can call D&amp;B Technical Operations and Services at 866-465-3829  - 24 X 7</p>
+        <p>- Details on <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> process are located in our shared Chatter group called “D&amp;B/<MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> Support and escalation” (<a href="https://org62.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000009IMz">LINK</a>) in the document ‘’DUNSRight Match API Support process’’.</p>
+        <h3>Email for Severity 1-4 Issues</h3>
+        <p>Once a <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> is opened, the process for email is detailed with screen shots in the “DUNSRight API Support process” document at: (<a href="https://org62.my.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000009IMz">LINK</a>)</p>
+        <h2>Notification and Escalation Processes</h2>
+        <p>Escalation Alias for Severity 1-3 (<MadCap:variable name="Master/DnB-Partners.Partner-NoName" />-only): <a href="mailto:ddc-dnb-escalation@salesforce.com">ddc-dnb-escalation@salesforce.com</a></p>
+        <p>This alias is to be used by D&amp;B for critical updates on Sev1-3 issues. All updates should still be made in the D&amp;B cases and will be reflected in the related <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> case through email-to-case.</p>
+        <p>Important: This alias should be inserted in the “Other recipients” field of all Sev1-3 cases.</p>
+        <p>Sev1 issues will be communicated to <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> sales and support teams by <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> through the <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> Missile Command Chatter group as well as the Support and Escalation joint Chatter group. A Partner communication email from D&amp;B per this SLA will be required for <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> (for its internal use) to respect its internal SLAs for SEV1.</p>
+        <p>For Sev2 and Sev3: <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> Communication will be done on the trust.data.com Chatter group as well as Support and Escalation joint D&amp;B Chatter.</p>
+        <p>Important: Individuals will be responsible to “Follow” the case created by <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> to get email updates. The <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> number and link will be posted by the originator on the Support and Escalation joint Chatter.</p>
+        <h2>Escalation Matrix for <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /></h2>
+        <table style="margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/dnb_tablestyle_2.css');" class="TableStyle-dnb_tablestyle_2" cellspacing="1">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Priority</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Acknowledgement Time</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Update Frequency</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Escalation Time</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1">
+                        <p>Target Resolution Time</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Sev1</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>15 minutes</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>1 hour</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Ack or update SLA not met; Set up joint conf call when happening</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>4 hours – Initial Resolution</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Sev2</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>1 hour</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>2 hours</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Ack SLA not met or update 2 hours late</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>12 hours – Initial Resolution</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Sev3</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>8 hours</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Every 2 days</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Ack SLA not met or no update in 4 days</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>TBD</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>Sev4</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>1 business day</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>Every 5 days</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>Ack SLA not met or no update in 10 days</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1">
+                        <p>N/A</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Please refer to the Appendix attached to this document for current list of contacts.</p>
+        <h3>Escalation Matrix for D&amp;B Technical Issues/Outages</h3>
+        <table style="margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/dnb_tablestyle_2.css');" class="TableStyle-dnb_tablestyle_2" cellspacing="1">
+            <col style="width: 48px;" class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Priority</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Acknowledgement Time</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Update Frequency</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Escalation Time</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1">
+                        <p>Target Resolution Time</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Sev 1</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>45minutes</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>1 hour  -</p>
+                        <p>Daily notices to Global leadership team</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Immediate</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>4 hours</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Sev 2</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>1 hour</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Every 2 hours</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Immediate</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>12 hours</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Sev 3</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>1 Business day</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Every  3 days</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>n/a</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>Sev 4</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>1 Business day</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>Every 5 days</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1">
+                        <p>n/a</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Please refer to the Appendix attached to this document for current list of contacts.</p>
+        <h3>Technology Communication Process for exceeding the target “Resolution time”</h3>
+        <p>Communication will be done via email from the <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> matrix contacts to the D&amp;B contacts except for Sev 1 when <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> contact will call and email directly if the SLA is exceeded or resolution is blocked.</p>
+        <p>Please refer to the Appendix attached to this document for current list of contacts.</p>
+        <h3>ESCALATION MATRIX FOR D&amp;B Data Quality Investigations</h3>
+        <table style="margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/dnb_tablestyle_2.css');" class="TableStyle-dnb_tablestyle_2" cellspacing="1">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Priority</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Ack Time</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Update Frequency</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Escalation Time</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1">
+                        <p>Target Resolution Time</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>7 days US Only</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>90 days Global</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1">
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Communication will be done via email from the DDC CFL Tier3 team to the D&amp;B contacts if resolution time is exceeded.</p>
+        <p>Please refer to the Appendix attached to this document for current list of contacts.</p>
+        <h3>Add/change/Delete file,  Duns Delete (DATs) and Annual Full File</h3>
+        <table style="margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/dnb_tablestyle_2.css');" class="TableStyle-dnb_tablestyle_2" cellspacing="1">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Priority</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Ack Time</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Update Frequency</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Escalation Time</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1">
+                        <p>Target Resolution Time</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>File missed negotiated SLA</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1">
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2>Sev1 Premier Customer Notification Alerts</h2>
+        <p>For severe Sev1 issues, emergency maintenance, notification, updates and confirmed resolution will be sent by email to select customer contacts by <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> . <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />’s Premier customers will receive these emails directly per the <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> Premier Customer Alert process.</p>
+        <p>The email will be branded <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> following  pre- approved  <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> Communication Template (approved by D&amp;B Legal). LINK</p>
+        <p>D&amp;B Partner Outage Communication cannot be sent out to customers.</p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Security-Breach.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Root-Cause-Analysis.flsnp" />
+        <p>Please refer to the Appendix attached to this document for current list of contacts responsible for the RCA process.</p>
+        <h3>Issue resolution</h3>
+        <p>
+            <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> <MadCap:variable name="Master/DnB-Partners.Support-Ticket" />s regarding D&amp;B issues will remain open in “Waiting for Customer” status until the RCA is received. The RCA should be attached to the related <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> as a PPT file and posted on the “Support and Escalation” joint chatter group as well as attached to the related case as a PPT file.</p>
+        <p>Upon reception, a text summary of the root cause will be added to the <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> by the <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> team and a summary will be posted as well on the original trust.data.com issue notification. Any open <MadCap:variable name="Master/DnB-Partners.Support-Ticket" />s will be reviewed in existing regular sync up calls.</p>
+        <h2>Appeals for Technology</h2>
+        <p>Resolution is added to <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> and then it is closed.  Response may be disputed within 1 week (5  business days) can result in re-opening the original <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> and replying to the last known response from D&amp;B via the email feature to request another review.  <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> will have to provide additional support evidence on Appeal.   This is only for Technology process only unlike Quality cases that cannot be reopened.</p>
+        <h1>Data Quality</h1>
+        <h2>Monthly Updates</h2>
+        <p>D&amp;B agrees to provide <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />, at a minimum, monthly refresh updates on all D&amp;B Records.  Each monthly update must serve to provide any data needed to sync the <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> file with current WorldBase data at the time of provision.  All derived and otherwise "custom" data provided to <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> must conform to established business rules.</p>
+        <h3>Notification of Issue Resolution (Monthly Updates):</h3>
+        <p>D&amp;B Delivery Consultant to notify <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> upon the availability of delayed or corrected Monthly Update files following a missed monthly refresh or incorrect data in a prior file per Severity 1 &amp; 2 descriptions in the following sections.</p>
+        <h2>Customer Requests</h2>
+        <p>Customers will request validation of existing data fields or request incorrect data fields to be updated. Customer requests will flow through <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> support for investigation and resolution.</p>
+        <h3>Notification of Issue Resolution (Customer Requests):</h3>
+        <p>Customer Investigations will provide a final status with specific subject line to case and D&amp;B closes the <MadCap:variable name="Master/DnB-Partners.Support-Ticket" />.  <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> will be notified of the closure with reference to the original <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> case and responds to customer via original case with provided status and closes case.</p>
+        <h2>Ongoing Management of Open Cases</h2>
+        <p>All open <MadCap:variable name="Master/DnB-Partners.Support-Ticket" />s will be reviewed by both parties, <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> and D&amp;B via scheduled bi-weekly calls reviewing SLA reports created by both parties.</p>
+        <h3>Data Quality Appeals</h3>
+        <p>
+            <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> can challenge completed D&amp;B cases status within 3 business days of closure of the original case.</p>
+        <p>
+            <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> will re-open the original <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> case (not D&amp;B <MadCap:variable name="Master/DnB-Partners.Support-Ticket" />).</p>
+        <p>
+            <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> will have to open a new D&amp;B <MadCap:variable name="Master/DnB-Partners.Support-Ticket" /> for investigation.  The new case will need additional information that is different from what was provided the first time, if D&amp;B was not able to resolve the case the first time.  <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> will reference the original case number in this new <MadCap:variable name="Master/DnB-Partners.Support-Ticket" />.</p>
+        <p>
+            <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> will provide any additional supporting evidence or reason for appeal in the new D&amp;B case challenging the initial response.</p>
+        <h3>Case Response Quality Escalation</h3>
+        <p>If the <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> Data Operations team, as a highest-level data quality escalation team within <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />, reviews a case response and expresses concerns about the resolution, <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> will raise this as a new tracker item during the weekly D&amp;B/<MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> Data Quality call, and the concern will then be escalated through the D&amp;B Data Governance process as defined in (3.6).</p>
+        <p>
+            <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> will provide the case number relevant to the concern when the item is added to the tracker, and report status back to <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> Support throughout the Data Governance process.</p>
+        <p>For escalated cases, final resolution will be communicated to <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> Data Operations.</p>
+        <h3>Contacting D&amp;B</h3>
+        <p>
+            <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> uses case routing via <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> case object to E2C D&amp;B alias.  Templates are provided via ‘send email’ function of <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> case using alias data.comsupport@dnb.com.  All fields required are on the provided template as described in the <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> Support Technical Requirements documentation posted on the joint Chatter group “Support and Escalation”.  All case-related correspondence between D&amp;B and <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> is automatically attached to the related list on the case object for tracking purposes.</p>
+        <h3>Data Quality and Monthly Delivery of File Severity Matrix</h3>
+        <p>Communication will be done via email from the <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> CFL Tier3 team or the <MadCap:variable name="Master/DnB-Partners.Partner-Solution" /> Data Operations team to the D&amp;B contacts listed in (4.4) if resolution time is exceeded.</p>
+        <table style="margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/dnb_tablestyle_2.css');" class="TableStyle-dnb_tablestyle_2" cellspacing="1">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Severity Level</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Issue Definition</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Notification Channel</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Acknowledged by D&amp;B</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Update by D&amp;B</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1">
+                        <p>Resolved SLA by D&amp;B (+ 1 Day Triggers Escalation)</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Level 1: Critical</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Data Corruption: Commonly used reference data (e.g. NAICS codes), &gt; 25K baseline records impacted and caught by D&amp;B after file generation or by data.com after file processing</p>
+                        <p>Monthly File Delivery Delay: File delayed by &gt;30 days beyond scheduled delivery date.</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>If identified by D&amp;B:</p>
+                        <p>Notify (to do: Josh to create <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> email alias)</p>
+                        <p>If identified by <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />:</p>
+                        <p>Notify D&amp;B per Data Governance Process (see 4.6)</p>
+                        <p>Data Ops to open a case via email-to-case template.</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>1 Business Day</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Daily</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>Data Corruption:</p>
+                        <p>7 Days US Records</p>
+                        <p>30-60 Days International Records</p>
+                        <p>Monthly File Delivery Delay:</p>
+                        <p>3 Days (Monthly File)</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Level 2: Urgent</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Data Corruption: Commonly used reference data or &lt; 25K records impacted but caught prior to data being consumed by data.com or its customers.</p>
+                        <p>Monthly File Delivery Delay: File delayed by &gt; 2 business days beyond scheduled delivery date.</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>If identified by D&amp;B: Notify (to do: Josh to create <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> email alias)</p>
+                        <p>If identified by <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />:</p>
+                        <p>Notify D&amp;B per Data Governance Process (see 4.6)</p>
+                        <p>Data Ops to open a case via email-to-case template.</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>1 Business Day</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Daily</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>Data Corruption:</p>
+                        <p>7 Days US Records</p>
+                        <p>30-60 Days International Records</p>
+                        <p>Monthly File Delivery Delay:</p>
+                        <p>7 Days (Monthly File)</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Level 3:</p>
+                        <p>Multi-Cust</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Data Quality – Multiple Customer Requests: Example: 10 cases come in regarding SIC issues for same/multiple customers, without an identifiable pattern or unknown number of records impacted.</p>
+                        <p>Customer Request to change Super 7 Fields (see table for Fields) with alternate data content evidence provided</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Notify D&amp;B per Data Governance Process (see 4.6)</p>
+                        <p>Data Ops to open a case via email-to-case template.</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>1 Business Day</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Weekly During Scheduled DQ Call</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>30 Days US Records</p>
+                        <p>90 Days non-US Records</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>Level 4:</p>
+                        <p>Standard</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>Data Quality – Customer Request: Customer Request to change or validation of Super 7 Fields (see table for Fields) with alternate data content evidence provided</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>
+                            <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> Opens Case with D&amp;B</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>1 Business Day</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>Not Applicable</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1">
+                        <p>7 Days US Records</p>
+                        <p>90 Days International Records</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Data Quality and Monthly Delivery of File Escalation Matrix</h3>
+        <p>Please refer to the Appendix attached to this document for current list of contacts.</p>
+        <h3>D&amp;B Definition of Resolution</h3>
+        <table style="margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/dnb_tablestyle_2.css');" class="TableStyle-dnb_tablestyle_2" cellspacing="1">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Severity Level</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <p>Issue Definition</p>
+                    </th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1">
+                        <p>Definition of Resolution</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Level 1: Critical</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Data Corruption: Commonly used reference data (e.g. NAICS codes), &gt; 25K baseline records impacted and caught by D&amp;B after file generation or by data.com after file processing</p>
+                        <p>Monthly File Delivery Delay: File delayed by &gt;30 days beyond scheduled delivery date.</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>Data Corruption: Resolution of data quality issues, invalid, or incorrect data via provision of up-to-date and accurate information which conforms to current WorldBase records and values, per contractual agreement and established business rules.</p>
+                        <p>Monthly File Delivery Delay: Monthly File delivered per 4.1 above, and notification provided per 4.1.1 above.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Level 2: Urgent</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Data Corruption: Commonly used reference data or &lt; 25K records impacted but caught prior to data being consumed by data.com or its customers.</p>
+                        <p>Monthly File Delivery Delay: File delayed by &gt; 2 business days beyond scheduled delivery date.</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>Data Corruption: Resolution of data quality issues, invalid, or incorrect data via provision of up-to-date and accurate information which conforms to current WorldBase records and values, per contractual agreement and established business rules.</p>
+                        <p>Monthly File Delivery Delay: Monthly File delivered per 4.1 above, and notification provided per 4.1.1 above.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Level 3:</p>
+                        <p>Multi-Cust</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>Data Quality – Multiple Customer Requests: Example: 10 cases come in regarding SIC issues for same/multiple customers, without an identifiable pattern or unknown number of records impacted.</p>
+                        <p>Customer Request to change Super 7 Fields (see table for Fields) with alternate data content evidence provided</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>D&amp;B to provide <MadCap:variable name="Master/DnB-Partners.Partner-Solution" />:</p>
+                        <p>1. RCA (Root Cause Analysis) Findings</p>
+                        <p>2. Number of Records Impacted</p>
+                        <p>3. ETA for a Fix</p>
+                        <p>Issues quantified to impact commonly used reference data or number of records applicable to Severity 1 or 2 definitions will be escalated appropriately.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>Level 4:</p>
+                        <p>Standard</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>Data Quality – Customer Request: Customer Request to change or validation of Super 7 Fields (see table for Fields) with alternate data content evidence provided</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1">
+                        <p>Per Section 4.2 - 4.2.5 above.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2>D&amp;B Data Governance Process</h2>
+        <table style="margin-left: 0;margin-right: auto;mc-table-style: url('../../Resources/TableStyles/dnb_tablestyle_2.css');" class="TableStyle-dnb_tablestyle_2" cellspacing="1">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">Activity</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1">Response</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>1. Communicate data concerns  via email to Partner Product Director and cc Customer Care Consultant</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>Log Issue in Customer Investigation Support process (This process is one DUNS only at a time for each investigation)</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>2. Details need to be included :</p>
+                        <p>D-U-N-S Number</p>
+                        <p>Data element</p>
+                        <p>Description of issue</p>
+                        <p>Where did you see this occur?</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>Partner</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>3. Investigation process starts on area of concern</p>
+                        <p>SLA  for investigation</p>
+                        <p>US = 5 – 7 days</p>
+                        <p>Global = 60 – 90 days</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>Take in Partner feedback on strategy of the data element</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <p>4. Weekly Meeting to review data quality issues</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <p>Review concern and update or close.</p>
+                        <p>Convey and provide with understanding of the guiding principles/update schedule to the file for the concern in question.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <p>5. Monthly Data Governance Meeting</p>
+                    </td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1">
+                        <p>Discuss any additional concerns around data element and feedback on data element.</p>
+                        <p>Capture business need that stems from data element and discuss next steps with strategy and business.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

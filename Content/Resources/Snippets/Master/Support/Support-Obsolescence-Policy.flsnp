@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="737" MadCap:lastWidth="1015">
+    <body>
+        <h2>Obsolescence Policy</h2>
+        <p>D&amp;B&#160;makes every effort to ensure changes do not impact deprecated versions, and will release updates to any connector product(s) affected by an API service version change.</p>
+        <p MadCap:conditions="Master/DnB-Partners.!Oracle">D&amp;B API services will be supported from the initial date of release until 24 months after the release of a subsequent version. If <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> opts to continue running applications based on unsupported D&amp;B&#160;API service(s), they will be expected to upgrade should the API service(s), or any component(s) thereof, cease to function properly.</p>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">Each version of D&amp;B Services will be supported from release until 12 months after the release of a subsequent version of the D&amp;B Services.</p>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">During the period that the D&amp;B Services is supported, D&amp;B will not require Oracle  to make changes to their application to ensure their existing functionality continues to work in the same Service Level Agreement manner. Should Oracle  continue to run their application on an API version that is no longer supported, and should Oracle  system cease to work in the same manner, they will be obliged to upgrade to a newer version of the D&amp;B Services.</p>
+        <p MadCap:conditions="Master/DnB-Partners.!Oracle">There may be <i>exceptional</i> circumstances (due to, but not limited to, matters of legal compliance, etc.) when a D&amp;B&#160;API service is decommissioned earlier then stated in the previous paragraph.  When this occurs, <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> will be notified of available replacement options.</p>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">There may be <i>exceptional</i> circumstances when the D&amp;B Services becomes unsupported earlier then indicated above. D&amp;B could require Oracle  to upgrade their version of the D&amp;B Services due to, but not limited to, matters of legal compliance, etc.</p>
+    </body>
+</html>

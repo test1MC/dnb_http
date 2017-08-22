@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="20pt" PageSize="Letter" PageType="normal" Orientation="landscape">
+        <Frame Flow="body" Y="62.25pt" Bottom="51.75pt" X="24pt" Right="24pt" ColumnCount="1" Anchors="Left,Right,Top,Bottom" Width="938px" Height="610px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="header" Height="39.75pt" Anchors="Left,Right,Top" Right="24pt" X="24pt" Y="9.75pt" ColumnCount="1" TextAlign="right" BorderBottomStyle="solid" BorderBottomWidth="1px" BorderBottomColor="#003074" Width="938px" Bottom="696px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body xhtml:style="text-align: center;">
+                        <xhtml:table xhtml:style="width: 100%;">
+                            <xhtml:col xhtml:style="width: 50%;" />
+                            <xhtml:col xhtml:style="width: 50%;" />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td xhtml:style="text-align: left;" xhtml:class="master_page_header">
+                                        <MadCap:variable xhtml:name="Master/DnB-Product.DnB-NoName" />
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;" xhtml:class="master_page_header">
+                                        <MadCap:variable xhtml:name="Heading.AnyLevel" />
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Height="35.25pt" Anchors="Left,Right,Bottom" Right="26.25pt" Bottom="-2.25pt" X="24pt" Y="538.5pt" Width="701.25pt" TextAlign="right">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="margin-left: auto;margin-right: auto;width: 10.50in;">
+                            <xhtml:col xhtml:style="width: 50%;" />
+                            <xhtml:col xhtml:style="width: 50%;" />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td xhtml:class="master_page_footer">
+                                        <MadCap:variable xhtml:name="Master/DnB-Branding.Copyright" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;" xhtml:class="master_page_footer">
+                                        <MadCap:variable xhtml:name="System.PageNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

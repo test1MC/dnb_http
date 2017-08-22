@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="6942" MadCap:lastWidth="614" MadCap:conditions="Master/DnB-Project.Incl-SupportDef" MadCap:searchable="False">
+    <head>
+        <link href="../../Resources/TableStyles/dnb_tablestyle_2.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../../Resources/TableStyles/dnb_tablestyle_3.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h1>API&#160;Performance</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Performance.flsnp" />
+        <h2 MadCap:conditions="Master/DnB-Product.DnB-Direct">Utilization</h2>
+        <p MadCap:conditions="Master/DnB-Product.DnB-Direct">D&amp;B employs various methods to manage utilization of the <MadCap:variable name="Master/DnB-Product.DnB-Direct" /> 2.x web services. These include request metering and concurrency throttling.</p>
+        <p MadCap:conditions="Master/DnB-Product.DnB-Direct">When <MadCap:variable name="Master/DnB-Product.DnB-Direct" /> 2.x services are pre-purchased (either directly or through connector products), weekly transactional thresholds (based on expected average data layer usage) are assigned to each contract, and all web service transactions are then metered against those limits. Usage thresholds are also issued for production trial and sandbox accounts, where the web services will return an error code if the threshold is exceeded.</p>
+        <p MadCap:conditions="Master/DnB-Product.DnB-Direct">In addition, as part of the contract determination process, a concurrency limit is established, and the web services monitor activity to ensure that this limit is not exceeded. An error code will be returned in the event that a transaction is throttled.</p>
+        <p MadCap:conditions="Master/DnB-Product.DnB-Direct">As a customer's actual or planned usage patterns change, these limits can be adjusted. Please contact a D&amp;B&#160;sales associate, whenever usage exceeds the limits established in the <MadCap:variable name="Master/DnB-Product.DnB-Direct" /> contract.</p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Availabilty.flsnp" />
+        <p MadCap:conditions="Master/DnB-Product.DnB-Direct">Requests placed during the maintenance period may experience timeouts, authentication failures or receive CM004 "internal D&amp;B error” response codes depending on the components under maintenance at the time.</p>
+        <p MadCap:conditions="Master/DnB-Product.DnB-Direct">Data requests for the following D&amp;B Direct 2.0 product codes are serviced by regional D&amp;B hosts, which have regularly scheduled local maintenance windows: DCP_ALT_STD, DCP_ALT_ENH, DCP_ALT_PREM, FIN_ST_PLUS, PAC_PLUS, PBPR_STD, PBPR_ENH, PGPR_EMMA, PIAP_STD, PIAP_ENH, and PIAP_PREM. Please refer to the <a href="Appendix-Regional-Hosts.htm">Regional Host Availability</a> appendix for details. This also applies to company reports and risk-based custom products that rely on regional D&amp;B&#160;hosts.</p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Response-Times.flsnp" />
+        <table style="mc-table-style: url('../../Resources/TableStyles/dnb_tablestyle_2.css');" class="TableStyle-dnb_tablestyle_2" cellspacing="1">
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_2-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1">
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">Operation(s)</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">Description</th>
+                    <th class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1">Average Response Time per 1,000 Consecutive Requests</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Authentication (REST)</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Retrieval of Authentication&#160;Token (expires after eight hours)</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">1 second</td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Company.Match/GetCleanseMatch</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Entity Identification/Resolution</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">2 to 5 seconds</td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">*.OrderProduct</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Retrieval of data products, including custom products</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">3 to 5 seconds<sup>2</sup></td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Report.OrderCompanyReport</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Retrieval of text-formatted reports (including BIR)</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">3 to 5 seconds<sup>2</sup></td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">EntityList.FindCompany, EntityList.FindContact</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Company Build-A-List, Contact Build-A-List</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">1 to 3 seconds<sup>3</sup></td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Monitoring.AddRegistration<sup>1</sup></td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Submitting a Monitoring Registration</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">5 to 10 seconds</td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Batch.ProcessBatch<sup>1</sup></td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">Submitting a Batch for Processing</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">2 to 15 seconds<sup>4</sup></td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">ComplianceCheck.RegisterSubject<sup>1</sup></td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">Requesting a Compliance Screening</td>
+                    <td class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1">2 to 5 seconds<sup>5</sup></td>
+                </tr>
+            </tbody>
+        </table>
+        <p>
+            <sup>1</sup>These are asynchronous processes. Average response times in the preceding table reflect the completion of the initial API&#160;request, not the entire processing time.</p>
+        <p>
+            <sup>2</sup>Data requests for the following <MadCap:variable name="Master/DnB-Product.DnB-Direct"></MadCap:variable> 2.x product codes are serviced by regional D&amp;B hosts, which will lengthen the average response times: DCP_ALT_STD, DCP_ALT_ENH, DCP_ALT_PREM, FIN_ST_PLUS, PAC_PLUS, PBPR_STD, PBPR_ENH, PGPR_EMMA, PIAP_STD, PIAP_ENH, and PIAP_PREM. This also applies to company reports and risk-based custom products that rely on regional D&amp;B&#160;hosts. <i>D&amp;B&#160;Data Exchange</i> requests which are dependent on the third party servers may experience longer response times.</p>
+        <p>
+            <sup>3</sup>Requests with complex filtering criteria and/or larger response page sizes will impact the average response times.</p>
+        <p>
+            <sup>4</sup>
+            <i>On-Demand Multiple Entity Resolution (Asynchronous)</i> [BTCH_CleanseMatch] submissions with the maximum of 10,000 entries require approximately 5 to 7 minutes for processing. Actual completion of a batch is dependent on the number of pending (queued)&#160;requests from all API customers. Batch requests using REST require an authentication token that is less than thirty minutes old.</p>
+        <p>
+            <sup>5</sup>For screening requests that do not include an analyst review, results can typically be retrieved within an hour of submission. Analyst reviews are typically completed within 2 to 3 business days.</p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Data-Protection.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-System-Outages.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Customer-Enviroment.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Usability.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Data-Quality.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Service-Updates.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Obsolescence-Policy.flsnp" />
+        <h1>Support Process</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Support-Process.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Issue-Reporting.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Service-Levels.flsnp" />
+        <p>In cases where the SLA objectives listed in the preceding table are not being met, or the customer doesn’t feel the D&amp;B&#160;support team is addressing the issue to their satisfaction, an escalation process is in place to raise the incident to the attention of a D&amp;B&#160;support manager. <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> should call <MadCap:variable name="Master/DnB-Product.DnB-Customer-Svc" /> and request an escalation.</p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Security-Breach.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Master/Support/Support-Root-Cause-Analysis.flsnp" />
+    </body>
+</html>

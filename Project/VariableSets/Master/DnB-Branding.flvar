@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="DnB-Name" OriginalName="DnB-Name">Dun &amp; Bradstreet</Variable>
+    <Variable Comment="" Name="DnB-Phone" OriginalName="DnB-Phone">1 (866) 307-3822</Variable>
+    <Variable Name="Copyright" Comment="" Definition="Some text" OriginalName="Copyright">© 2015 by Dun &amp; Bradstreet, Inc.</Variable>
+    <Variable Name="Copyright&#160;(Full)" Comment="" Definition="Some text" OriginalName="Copyright&#160;(Full)">© Dun &amp; Bradstreet, Inc. 2015. All rights reserved.</Variable>
+    <Variable Name="DnB-Address" Comment="" OriginalName="DnB-Address">103 JFK&#160;Parkway</Variable>
+    <Variable Name="DnB-Address2" Comment="" OriginalName="DnB-Address2">Short Hills, N. J. 07078</Variable>
+    <Variable Name="DnB-URL" Comment="">www.dnb.com</Variable>
+    <Variable Name="DnB-Trademarks" Comment="end with &quot;is a&quot; for single or &quot;are&quot; for multiple (RETIRED&#160;4/2015)" OriginalName="DnB-Trademarks">(Branding\DnB-Trademarks in&#160;Target)</Variable>
+    <Variable Name="DnB-DUNS" Comment="" OriginalName="DnB-DUNS">D-U-N-S Number</Variable>
+    <Variable Name="DnB-GlobalCount" Comment="Use in phrase &quot;D&amp;B's 225+ million worldwide businesses&quot;">225+</Variable>
+    <Variable Name="DnB-ExtraMarks" Comment="include a trailing comma. This is ONLY&#160;for D&amp;B, Inc. marks" />
+    <Variable Name="DnB-OpenCopyright" Comment="this is an open paragraph you can include on copyright page with Incl_OpenC" />
+    <Variable Name="DnB-SoftwareOwner" Comment="this should be overridden when D&amp;B, Inc. is licensing product from a subsidiary">Dun &amp; Bradstreet, Inc.</Variable>
+    <Variable Name="DnB-OpenMarks" Comment="this is an open paragraph you can include on copyright page with Incl_OpenM" />
+</CatapultVariableSet>

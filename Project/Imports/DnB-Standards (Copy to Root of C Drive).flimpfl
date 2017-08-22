@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" xml:lang="en-us" SourceControlBound="false" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." IncludePattern="*.*" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="false" DeleteStale="true" AutoSync="false" LastImport="2015-06-26T14:46:09.2805354-04:00">
+    <Files>
+        <Url Source="file:///C:/DnB-Standards (Copy to Root of C Drive)/DnB-Standards (Copy to Root of C Drive).flprj" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/DnB-Standards (Copy to Root of C Drive).flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Back_Cover-L.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Back_Cover-L.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Back_Cover.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Back_Cover.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Copyright.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Copyright.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Default-D.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Default-D.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Title-D.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Title-D.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Title.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Title.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Style/DnB_Back_Index.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Style/DnB_Back_Index.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Style/DnB_Table_of_Contents.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Style/DnB_Table_of_Contents.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/DNB_corp30_pos.png" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/DNB_corp30_pos.png" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/DNB_Cover_Graphic.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/DNB_Cover_Graphic.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_deck_cover_banner.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_deck_cover_banner.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_deck_default_header.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_deck_default_header.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_deck_logo.png" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_deck_logo.png" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_deck_logo_back_cover.png" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_deck_logo_back_cover.png" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_letterhead_banner.png" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_letterhead_banner.png" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_letterhead_lower_border.png" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_letterhead_lower_border.png" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_logo_footer.png" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_logo_footer.png" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-BACK COVER_Header.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-BACK COVER_Header.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB CIM.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB CIM.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB Family Tree Portal.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB Family Tree Portal.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB Market Insight.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB Market Insight.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB Optimizer Online.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB Optimizer Online.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB Optimizer.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB Optimizer.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB360.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB360.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBComplianceCheck.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBComplianceCheck.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBDataExchange V4.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBDataExchange V4.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBDataExchange.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBDataExchange.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBDIRECT.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBDIRECT.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBi.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBi.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-Hoovers.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-Hoovers.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-Hoovers_June 13.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-Hoovers_June 13.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB360_logo_yellow_28.png" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB360_logo_yellow_28.png" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner-CustomerIntegrationManager.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner-CustomerIntegrationManager.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_DNB360.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_DNB360.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_DNBCOMPLAINCECHECK.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_DNBCOMPLAINCECHECK.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_DNBDATAEXCHANGE.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_DNBDATAEXCHANGE.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_DNBDIRECT.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_DNBDIRECT.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_DNBi.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_DNBi.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_FamilyTreePortal.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_FamilyTreePortal.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_MarketInsight.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_MarketInsight.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_Optimizer.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_Optimizer.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_OptimizerOnline.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/dnb_letterhead_banner_OptimizerOnline.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/hoovers_rgb_blue.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/hoovers_rgb_blue.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-BackCover-L.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-BackCover-L.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-BackCover.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-BackCover.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Chapter-L.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Chapter-L.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Chapter.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Chapter.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Copyright-L.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Copyright-L.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Copyright.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Copyright.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Default-D.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Default-D.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Default-L.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Default-L.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Default.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Default.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Index-L.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Index-L.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Index.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Index.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-ReleaseNotes.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-ReleaseNotes.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-TitlePage-D.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-TitlePage-D.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-TitlePage-L.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-TitlePage-L.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-TitlePage.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-TitlePage.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/DnB-Style-CN.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/DnB-Style-CN.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/DnB-Style-EN.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/DnB-Style-EN.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/DnB-Style-JP.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/DnB-Style-JP.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/DnB-Page-Footer.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/DnB-Page-Footer.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/DnB-Page-Header.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/DnB-Page-Header.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/dnb_tablestyle_1.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/dnb_tablestyle_1.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/dnb_tablestyle_2.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/dnb_tablestyle_2.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/dnb_tablestyle_3.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/dnb_tablestyle_3.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/ConditionTagSets/Master/DnB-Branding.flcts" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/ConditionTagSets/Master/DnB-Branding.flcts" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/ConditionTagSets/Master/DnB-Product.flcts" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/ConditionTagSets/Master/DnB-Product.flcts" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/ConditionTagSets/Master/DnB-Project.flcts" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/ConditionTagSets/Master/DnB-Project.flcts" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/VariableSets/Master/DnB-Branding.flvar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/VariableSets/Master/DnB-Branding.flvar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/VariableSets/Master/DnB-Product.flvar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/VariableSets/Master/DnB-Product.flvar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/VariableSets/Master/DnB-Project.flvar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/VariableSets/Master/DnB-Project.flvar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-NoLogo.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-NoLogo.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/ConditionTagSets/Master/DnB-Partners.flcts" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/ConditionTagSets/Master/DnB-Partners.flcts" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/standards-version-log.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/standards-version-log.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Title-L.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Title-L.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB360-L.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB360-L.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBComplianceCheck-L.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBComplianceCheck-L.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBDIRECT-L.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBDIRECT-L.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBi-L.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBi-L.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-NoLogo-L.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-NoLogo-L.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Back_Cover-D.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Back_Cover-D.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-BackCover-D.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-BackCover-D.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/DnB-Style-EN-D.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/DnB-Style-EN-D.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/Content/DnB_Deck_Topic.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/Content/DnB_Deck_Topic.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Style/DnB_Deck_Topic&#160;(source for template).htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Style/DnB_Deck_Topic&#160;(source for template).htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/Reports/DnB-Project-Analyzer.flrep" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/Reports/DnB-Project-Analyzer.flrep" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/DnB-Style-EN (Keep).css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/DnB-Style-EN (Keep).css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/Master-DnB-Style-EN.txt" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/Master-DnB-Style-EN.txt" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_deck_default_header-nologo.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_deck_default_header-nologo.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_letterhead_banner-L.png" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/dnb_letterhead_banner-L.png" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-BACK COVER_Header-L.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Product/DB-3520 User Guide Template-BACK COVER_Header-L.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Letterhead.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Letterhead.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Letter.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/DnB-Letter.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/TOCs/DnB-Default-D.fltoc" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/TOCs/DnB-Default-D.fltoc" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/TOCs/DnB-Default-L.fltoc" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/TOCs/DnB-Default-L.fltoc" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/TOCs/DnB-Default.fltoc" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/TOCs/DnB-Default.fltoc" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Style/DnB_About_this_Guide.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Style/DnB_About_this_Guide.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/Reports/DnB-Support-en-US (Primary) - Tuesday, May 13, 2014 [10.21 AM].mclog" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/Reports/DnB-Support-en-US (Primary) - Tuesday, May 13, 2014 [10.21 AM].mclog" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/Content/DnB_Revision_Log.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/Content/DnB_Revision_Log.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/sample.png" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/sample.png" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/VariableSets/Master/DnB-Partners.flvar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/VariableSets/Master/DnB-Partners.flvar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/Appendix-Regional-Hosts.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/Appendix-Regional-Hosts.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/Appendix-Revision-Log.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/Appendix-Revision-Log.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/Appendix-Salesforce-DnB.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/Appendix-Salesforce-DnB.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/Appendix-Salesforce-SFDC.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/Appendix-Salesforce-SFDC.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/DnB-Support-Direct2.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/DnB-Support-Direct2.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/DnB-Support-Generic.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/DnB-Support-Generic.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/DnB-Support-Salesforce.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/DnB-Support-Salesforce.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/DnB-Support-Toolkit.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/DnB-Support-Toolkit.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Availabilty.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Availabilty.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Customer-Enviroment.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Customer-Enviroment.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Data-Protection.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Data-Protection.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Data-Quality.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Data-Quality.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Form-Link.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Form-Link.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Introduction.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Introduction.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Issue-Reporting.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Issue-Reporting.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-New-Customer.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-New-Customer.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Obsolescence-Policy.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Obsolescence-Policy.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Performance.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Performance.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Response-Times.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Response-Times.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Root-Cause-Analysis.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Root-Cause-Analysis.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Security-Breach.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Security-Breach.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Service-Levels.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Service-Levels.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Service-Updates.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Service-Updates.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Support-Process.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Support-Process.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-System-Outages.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-System-Outages.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Terminology.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Terminology.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Usability.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Support-Usability.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/DnB-Style-EN-O.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/DnB-Style-EN-O.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-Partner-Salesforce-v1-0.fltar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-Partner-Salesforce-v1-0.fltar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-Support-Direct2.fltar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-Support-Direct2.fltar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-Support-Toolkit.fltar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-Support-Toolkit.fltar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/TOCs/Master/DnB-Partner-Alliances.fltoc" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/TOCs/Master/DnB-Partner-Alliances.fltoc" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/TOCs/Master/DnB-Support-Direct2.fltoc" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/TOCs/Master/DnB-Support-Direct2.fltoc" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/TOCs/Master/DnB-Support-Generic.fltoc" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/TOCs/Master/DnB-Support-Generic.fltoc" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/TOCs/Master/DnB-Support-Toolkit.fltoc" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/TOCs/Master/DnB-Support-Toolkit.fltoc" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/about-CSS-tags.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/about-CSS-tags.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/Targets/DnB-Target-en-US (HTML5).fltar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/Targets/DnB-Target-en-US (HTML5).fltar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/Targets/DnB-Target-en-US (PDF).fltar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/Targets/DnB-Target-en-US (PDF).fltar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/Targets/DnB-Target-en-US-D (PDF).fltar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/Targets/DnB-Target-en-US-D (PDF).fltar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/Targets/DnB-Target-en-US-L (PDF).fltar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/DnB-Templates/Targets/DnB-Target-en-US-L (PDF).fltar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/logo-dnb.gif" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/logo-dnb.gif" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/Skins/DnB-Master.flskn" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/Skins/DnB-Master.flskn" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-HTML5-Test.fltar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-HTML5-Test.fltar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/TOCs/Master/CSS-tags.fltoc" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/TOCs/Master/CSS-tags.fltoc" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Blank_Page.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Blank_Page.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/DnB-Support-Intro.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Product/DnB-Support-Intro.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/MasterPages/DnB-WebSkin.flmsp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/MasterPages/DnB-WebSkin.flmsp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/CSS-tag-testing.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/CSS-tag-testing.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/sample-faq.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/sample-faq.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/OLD_DnB_Title.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/OLD_DnB_Title.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/MasterPages/DnB-WebSkin-GA.flmsp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/MasterPages/DnB-WebSkin-GA.flmsp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/MasterPages/DnB-WebSkin-GA2.flmsp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/MasterPages/DnB-WebSkin-GA2.flmsp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/MasterPages/DnB-WebSkin-GA3.flmsp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/MasterPages/DnB-WebSkin-GA3.flmsp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/MasterPages/DnB-WebSkin-Test.flmsp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/MasterPages/DnB-WebSkin-Test.flmsp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Partner-DQ-Email.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Partner-DQ-Email.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Partner-Investigation-Email.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Support/Partner-Investigation-Email.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/Advanced/NewAlias.flali" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/Advanced/NewAlias.flali" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-Partner-Oracle.fltar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-Partner-Oracle.fltar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-Partner-SugarCRM.fltar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-Partner-SugarCRM.fltar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-Partner.fltar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-Partner.fltar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-UserEnablementTags.fltar" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/Targets/Master/DnB-UserEnablementTags.fltar" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Project/TOCs/Master/DnB-UserEnablementTags.fltoc" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Project/TOCs/Master/DnB-UserEnablementTags.fltoc" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Back_Cover-2013.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Back_Cover-2013.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Title-2013.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/DnB_Title-2013.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/logo-dnb-288x42.png" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/logo-dnb-288x42.png" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/logo-dnb.jpg" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/logo-dnb.jpg" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/logo-dnb.png" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/logo-dnb.png" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/logo-dnb1.gif" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/logo-dnb1.gif" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/old-logo-dnb.gif" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/old-logo-dnb.gif" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/DB_WORDMARK_RGB.png" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Images/Master/Branding/DB_WORDMARK_RGB.png" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/Archived/DnB-BackCover-2013.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/Archived/DnB-BackCover-2013.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/Archived/DnB-Chapter-2013.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/Archived/DnB-Chapter-2013.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/Archived/DnB-Default-2013.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/Archived/DnB-Default-2013.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/Archived/DnB-TitlePage-2013.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/Archived/DnB-TitlePage-2013.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/Archived/DnB-TitlePage-D-2013.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/Archived/DnB-TitlePage-D-2013.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/Archived/DnB-TitlePage-L-2013.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/Archived/DnB-TitlePage-L-2013.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Dictionary/IceBreaker.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Dictionary/IceBreaker.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Dictionary/Marketo-Eloqua.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/Dictionary/Marketo-Eloqua.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/Archived/DnB-Style-EN-0026-2013.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/Archived/DnB-Style-EN-0026-2013.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/Archived/DnB-Style-EN-0027.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/Archived/DnB-Style-EN-0027.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/Archived/DnB-Style-EN-0028.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/Archived/DnB-Style-EN-0028.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/Archived/DnB-Style-EN-0030 (no online).css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/Archived/DnB-Style-EN-0030 (no online).css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/Archived/dnb_tablestyle_1-2013.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/Archived/dnb_tablestyle_1-2013.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/Archived/dnb_tablestyle_2-2013.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/Archived/dnb_tablestyle_2-2013.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/Archived/dnb_tablestyle_3-2013.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/Archived/dnb_tablestyle_3-2013.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/Archived/DnB-Index-2013.flpgl" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/PageLayouts/Archived/DnB-Index-2013.flpgl" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/copyright.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/copyright.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/OLD_DnB_Copyright.htm" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Master/Branding/OLD_DnB_Copyright.htm" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/DnB-CopyrightPage.flsnp" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Snippets/Master/DnB-CopyrightPage.flsnp" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/Archived/DnB-Style-EN-0031.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/Stylesheets/Archived/DnB-Style-EN-0031.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/control-table.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/control-table.css" />
+        <Url Source="../../../../../../../DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/filterless-table.css" AbsoluteSource="file:///C:/DnB-Standards (Copy to Root of C Drive)/Content/Resources/TableStyles/filterless-table.css" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/Master/Branding/DnB_Back_Cover-L.htm" TimeStamp="3/24/2014 5:04:35 PM" />
+        <Url Source="../../Content/Master/Branding/DnB_Back_Cover.htm" TimeStamp="3/24/2014 5:03:55 PM" />
+        <Url Source="../../Content/Master/Branding/DnB_Copyright.htm" TimeStamp="3/18/2014 5:12:08 PM" />
+        <Url Source="../../Content/Master/Branding/DnB_Default-D.htm" TimeStamp="3/25/2014 11:29:38 AM" />
+        <Url Source="../../Content/Master/Branding/DnB_Title-D.htm" TimeStamp="3/25/2014 11:51:02 AM" />
+        <Url Source="../../Content/Master/Branding/DnB_Title.htm" TimeStamp="3/18/2014 5:06:19 PM" />
+        <Url Source="../../Content/Master/Style/DnB_Back_Index.htm" TimeStamp="3/18/2014 5:22:35 PM" />
+        <Url Source="../../Content/Master/Style/DnB_Table_of_Contents.htm" TimeStamp="3/18/2014 5:21:57 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Branding/DNB_corp30_pos.png" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Branding/DNB_Cover_Graphic.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Branding/dnb_deck_cover_banner.jpg" TimeStamp="3/24/2014 5:14:01 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Branding/dnb_deck_default_header.jpg" TimeStamp="3/25/2014 9:50:48 AM" />
+        <Url Source="../../Content/Resources/Images/Master/Branding/dnb_deck_logo.png" TimeStamp="3/25/2014 9:49:27 AM" />
+        <Url Source="../../Content/Resources/Images/Master/Branding/dnb_deck_logo_back_cover.png" TimeStamp="3/25/2014 9:51:07 AM" />
+        <Url Source="../../Content/Resources/Images/Master/Branding/dnb_letterhead_banner.png" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Branding/dnb_letterhead_lower_border.png" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Branding/dnb_logo_footer.png" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-BACK COVER_Header.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB CIM.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB Family Tree Portal.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB Market Insight.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB Optimizer Online.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB Optimizer.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB360.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBComplianceCheck.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBDataExchange V4.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBDataExchange.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBDIRECT.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBi.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-Hoovers.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-Hoovers_June 13.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB360_logo_yellow_28.png" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/dnb_letterhead_banner-CustomerIntegrationManager.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/dnb_letterhead_banner_DNB360.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/dnb_letterhead_banner_DNBCOMPLAINCECHECK.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/dnb_letterhead_banner_DNBDATAEXCHANGE.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/dnb_letterhead_banner_DNBDIRECT.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/dnb_letterhead_banner_DNBi.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/dnb_letterhead_banner_FamilyTreePortal.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/dnb_letterhead_banner_MarketInsight.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/dnb_letterhead_banner_Optimizer.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/dnb_letterhead_banner_OptimizerOnline.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/hoovers_rgb_blue.jpg" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-BackCover-L.flpgl" TimeStamp="3/24/2014 5:06:38 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-BackCover.flpgl" TimeStamp="3/18/2014 5:02:11 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-Chapter-L.flpgl" TimeStamp="3/24/2014 5:29:53 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-Chapter.flpgl" TimeStamp="3/19/2014 9:47:02 AM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-Copyright-L.flpgl" TimeStamp="3/24/2014 4:59:15 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-Copyright.flpgl" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-Default-D.flpgl" TimeStamp="3/25/2014 11:53:34 AM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-Default-L.flpgl" TimeStamp="3/24/2014 5:27:55 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-Default.flpgl" TimeStamp="3/19/2014 9:47:02 AM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-Index-L.flpgl" TimeStamp="3/24/2014 5:29:02 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-Index.flpgl" TimeStamp="3/19/2014 9:47:02 AM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-ReleaseNotes.flpgl" TimeStamp="3/19/2014 9:47:02 AM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-TitlePage-D.flpgl" TimeStamp="3/25/2014 10:57:49 AM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-TitlePage-L.flpgl" TimeStamp="3/24/2014 4:59:44 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-TitlePage.flpgl" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Stylesheets/DnB-Style-CN.css" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/Stylesheets/DnB-Style-EN.css" TimeStamp="3/25/2014 11:34:20 AM" />
+        <Url Source="../../Content/Resources/Stylesheets/DnB-Style-JP.css" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/TableStyles/DnB-Page-Footer.css" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/TableStyles/DnB-Page-Header.css" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/TableStyles/dnb_tablestyle_1.css" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/TableStyles/dnb_tablestyle_2.css" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/TableStyles/dnb_tablestyle_3.css" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../ConditionTagSets/Master/DnB-Branding.flcts" TimeStamp="3/20/2014 2:03:26 PM" />
+        <Url Source="../ConditionTagSets/Master/DnB-Product.flcts" TimeStamp="3/18/2014 4:28:42 PM" />
+        <Url Source="../ConditionTagSets/Master/DnB-Project.flcts" TimeStamp="3/24/2014 10:39:16 AM" />
+        <Url Source="../VariableSets/Master/DnB-Branding.flvar" TimeStamp="3/18/2014 5:15:44 PM" />
+        <Url Source="../VariableSets/Master/DnB-Product.flvar" TimeStamp="3/18/2014 5:55:07 PM" />
+        <Url Source="../VariableSets/Master/DnB-Project.flvar" TimeStamp="3/25/2014 11:39:05 AM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-NoLogo.jpg" TimeStamp="4/9/2014 10:10:36 AM" />
+        <Url Source="../ConditionTagSets/Master/DnB-Partners.flcts" TimeStamp="4/9/2014 9:50:03 AM" />
+        <Url Source="../../Content/Master/standards-version-log.htm" TimeStamp="4/9/2014 5:17:29 PM" />
+        <Url Source="../../Content/Master/Branding/DnB_Title-L.htm" TimeStamp="4/15/2014 9:25:08 AM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNB360-L.jpg" TimeStamp="4/14/2014 8:28:18 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBComplianceCheck-L.jpg" TimeStamp="4/14/2014 8:27:02 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBDIRECT-L.jpg" TimeStamp="4/14/2014 8:28:50 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-DNBi-L.jpg" TimeStamp="4/14/2014 8:29:24 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-NoLogo-L.jpg" TimeStamp="4/14/2014 8:25:26 PM" />
+        <Url Source="../../Content/Master/Branding/DnB_Back_Cover-D.htm" TimeStamp="3/24/2014 5:04:35 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-BackCover-D.flpgl" TimeStamp="3/24/2014 5:06:38 PM" />
+        <Url Source="../../Content/Resources/Stylesheets/DnB-Style-EN-D.css" TimeStamp="3/25/2014 11:34:20 AM" />
+        <Url Source="../../Content/Master/DnB-Templates/Content/DnB_Deck_Topic.htm" TimeStamp="4/21/2014 4:24:45 PM" />
+        <Url Source="../../Content/Master/Style/DnB_Deck_Topic&#160;(source for template).htm" TimeStamp="4/21/2014 4:19:25 PM" />
+        <Url Source="../Reports/DnB-Project-Analyzer.flrep" TimeStamp="4/21/2014 4:44:45 PM" />
+        <Url Source="../../Content/Resources/Stylesheets/DnB-Style-EN (Keep).css" TimeStamp="4/22/2014 10:26:43 AM" />
+        <Url Source="../../Content/Resources/Stylesheets/Master-DnB-Style-EN.txt" TimeStamp="4/22/2014 11:18:55 AM" />
+        <Url Source="../../Content/Resources/Images/Master/Branding/dnb_deck_default_header-nologo.jpg" TimeStamp="3/25/2014 9:50:50 AM" />
+        <Url Source="../../Content/Resources/Images/Master/Branding/dnb_letterhead_banner-L.png" TimeStamp="4/22/2014 11:22:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Product/DB-3520 User Guide Template-BACK COVER_Header-L.jpg" TimeStamp="4/22/2014 11:39:26 PM" />
+        <Url Source="../../Content/Master/Branding/DnB_Letterhead.htm" TimeStamp="4/23/2014 1:06:24 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/DnB-Letter.flpgl" TimeStamp="4/23/2014 11:01:15 AM" />
+        <Url Source="../../Content/Master/DnB-Templates/TOCs/DnB-Default-D.fltoc" TimeStamp="4/25/2014 3:59:31 PM" />
+        <Url Source="../../Content/Master/DnB-Templates/TOCs/DnB-Default-L.fltoc" TimeStamp="4/25/2014 4:02:23 PM" />
+        <Url Source="../../Content/Master/DnB-Templates/TOCs/DnB-Default.fltoc" TimeStamp="4/25/2014 4:01:31 PM" />
+        <Url Source="../../Content/Master/Style/DnB_About_this_Guide.htm" TimeStamp="7/17/2013 8:51:15 AM" />
+        <Url Source="../Reports/DnB-Support-en-US (Primary) - Tuesday, May 13, 2014 [10.21 AM].mclog" TimeStamp="5/13/2014 10:21:00 AM" />
+        <Url Source="../../Content/Master/DnB-Templates/Content/DnB_Revision_Log.htm" TimeStamp="5/16/2014 12:00:15 PM" />
+        <Url Source="../../Content/Resources/Images/sample.png" TimeStamp="6/11/2014 10:25:15 AM" />
+        <Url Source="../VariableSets/Master/DnB-Partners.flvar" TimeStamp="6/12/2014 3:48:01 PM" />
+        <Url Source="../../Content/Master/Product/Appendix-Regional-Hosts.htm" TimeStamp="6/23/2014 12:47:17 PM" />
+        <Url Source="../../Content/Master/Product/Appendix-Revision-Log.htm" TimeStamp="6/23/2014 2:15:12 PM" />
+        <Url Source="../../Content/Master/Product/Appendix-Salesforce-DnB.htm" TimeStamp="6/23/2014 3:33:59 PM" />
+        <Url Source="../../Content/Master/Product/Appendix-Salesforce-SFDC.htm" TimeStamp="6/23/2014 3:33:47 PM" />
+        <Url Source="../../Content/Master/Product/DnB-Support-Direct2.htm" TimeStamp="6/23/2014 3:41:37 PM" />
+        <Url Source="../../Content/Master/Product/DnB-Support-Generic.htm" TimeStamp="6/23/2014 3:42:20 PM" />
+        <Url Source="../../Content/Master/Product/DnB-Support-Salesforce.htm" TimeStamp="6/23/2014 4:06:56 PM" />
+        <Url Source="../../Content/Master/Product/DnB-Support-Toolkit.htm" TimeStamp="6/23/2014 3:41:37 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Availabilty.flsnp" TimeStamp="6/23/2014 10:38:04 AM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Customer-Enviroment.flsnp" TimeStamp="6/23/2014 2:11:02 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Data-Protection.flsnp" TimeStamp="6/23/2014 3:41:27 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Data-Quality.flsnp" TimeStamp="6/23/2014 2:11:45 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Form-Link.flsnp" TimeStamp="4/23/2014 12:16:54 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Introduction.flsnp" TimeStamp="6/23/2014 2:07:47 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Issue-Reporting.flsnp" TimeStamp="6/23/2014 3:41:12 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-New-Customer.flsnp" TimeStamp="6/23/2014 2:09:17 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Obsolescence-Policy.flsnp" TimeStamp="6/23/2014 2:12:24 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Performance.flsnp" TimeStamp="6/23/2014 3:55:00 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Response-Times.flsnp" TimeStamp="6/23/2014 10:29:52 AM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Root-Cause-Analysis.flsnp" TimeStamp="6/23/2014 2:14:09 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Security-Breach.flsnp" TimeStamp="6/23/2014 3:40:21 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Service-Levels.flsnp" TimeStamp="6/23/2014 3:40:59 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Service-Updates.flsnp" TimeStamp="6/23/2014 2:12:03 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Support-Process.flsnp" TimeStamp="6/23/2014 11:08:11 AM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-System-Outages.flsnp" TimeStamp="6/23/2014 2:10:03 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Terminology.flsnp" TimeStamp="6/23/2014 2:08:02 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Support-Usability.flsnp" TimeStamp="6/23/2014 2:11:25 PM" />
+        <Url Source="../../Content/Resources/Stylesheets/DnB-Style-EN-O.css" TimeStamp="6/25/2014 10:47:04 AM" />
+        <Url Source="../Targets/Master/DnB-Partner-Salesforce-v1-0.fltar" TimeStamp="6/23/2014 1:51:48 PM" />
+        <Url Source="../Targets/Master/DnB-Support-Direct2.fltar" TimeStamp="6/23/2014 3:20:14 PM" />
+        <Url Source="../Targets/Master/DnB-Support-Toolkit.fltar" TimeStamp="6/24/2014 10:47:03 AM" />
+        <Url Source="../TOCs/Master/DnB-Partner-Alliances.fltoc" TimeStamp="6/23/2014 12:24:28 PM" />
+        <Url Source="../TOCs/Master/DnB-Support-Direct2.fltoc" TimeStamp="6/23/2014 1:42:57 PM" />
+        <Url Source="../TOCs/Master/DnB-Support-Generic.fltoc" TimeStamp="6/23/2014 12:48:08 PM" />
+        <Url Source="../TOCs/Master/DnB-Support-Toolkit.fltoc" TimeStamp="6/24/2014 10:32:45 AM" />
+        <Url Source="../../Content/Master/about-CSS-tags.htm" TimeStamp="7/3/2014 10:08:07 AM" />
+        <Url Source="../../Content/Master/DnB-Templates/Targets/DnB-Target-en-US (HTML5).fltar" TimeStamp="7/3/2014 9:36:08 AM" />
+        <Url Source="../../Content/Master/DnB-Templates/Targets/DnB-Target-en-US (PDF).fltar" TimeStamp="7/3/2014 9:36:21 AM" />
+        <Url Source="../../Content/Master/DnB-Templates/Targets/DnB-Target-en-US-D (PDF).fltar" TimeStamp="7/3/2014 9:36:31 AM" />
+        <Url Source="../../Content/Master/DnB-Templates/Targets/DnB-Target-en-US-L (PDF).fltar" TimeStamp="7/3/2014 9:36:43 AM" />
+        <Url Source="../../Content/Resources/Images/Master/logo-dnb.gif" TimeStamp="6/26/2014 12:49:26 PM" />
+        <Url Source="../Skins/DnB-Master.flskn" TimeStamp="6/26/2014 1:00:58 PM" />
+        <Url Source="../Targets/Master/DnB-HTML5-Test.fltar" TimeStamp="6/30/2014 11:54:36 AM" />
+        <Url Source="../TOCs/Master/CSS-tags.fltoc" TimeStamp="7/8/2014 10:04:26 AM" />
+        <Url Source="../../Content/Master/Branding/DnB_Blank_Page.htm" TimeStamp="7/18/2014 10:13:13 AM" />
+        <Url Source="../../Content/Master/Product/DnB-Support-Intro.htm" TimeStamp="7/15/2014 12:25:45 PM" />
+        <Url Source="../../Content/Resources/MasterPages/DnB-WebSkin.flmsp" TimeStamp="7/14/2014 11:48:01 AM" />
+        <Url Source="../../Content/Master/CSS-tag-testing.htm" TimeStamp="12/10/2014 2:55:51 PM" />
+        <Url Source="../../Content/Master/sample-faq.htm" TimeStamp="12/10/2014 2:55:51 PM" />
+        <Url Source="../../Content/Master/Branding/OLD_DnB_Title.htm" TimeStamp="12/10/2014 2:56:08 PM" />
+        <Url Source="../../Content/Resources/MasterPages/DnB-WebSkin-GA.flmsp" TimeStamp="12/2/2014 9:12:02 AM" />
+        <Url Source="../../Content/Resources/MasterPages/DnB-WebSkin-GA2.flmsp" TimeStamp="12/2/2014 9:12:11 AM" />
+        <Url Source="../../Content/Resources/MasterPages/DnB-WebSkin-GA3.flmsp" TimeStamp="12/2/2014 9:12:19 AM" />
+        <Url Source="../../Content/Resources/MasterPages/DnB-WebSkin-Test.flmsp" TimeStamp="12/2/2014 9:12:31 AM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Partner-DQ-Email.flsnp" TimeStamp="9/25/2014 1:01:53 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Support/Partner-Investigation-Email.flsnp" TimeStamp="9/26/2014 10:46:51 AM" />
+        <Url Source="../Advanced/NewAlias.flali" TimeStamp="2/28/2014 9:10:58 AM" />
+        <Url Source="../Targets/Master/DnB-Partner-Oracle.fltar" TimeStamp="9/25/2014 1:18:33 PM" />
+        <Url Source="../Targets/Master/DnB-Partner-SugarCRM.fltar" TimeStamp="9/25/2014 1:15:14 PM" />
+        <Url Source="../Targets/Master/DnB-Partner.fltar" TimeStamp="12/15/2014 12:36:19 PM" />
+        <Url Source="../Targets/Master/DnB-UserEnablementTags.fltar" TimeStamp="11/10/2014 6:24:01 PM" />
+        <Url Source="../TOCs/Master/DnB-UserEnablementTags.fltoc" TimeStamp="11/10/2014 6:22:31 PM" />
+        <Url Source="../../Content/Master/Branding/DnB_Back_Cover-2013.htm" TimeStamp="12/10/2014 2:56:08 PM" />
+        <Url Source="../../Content/Master/Branding/DnB_Title-2013.htm" TimeStamp="12/10/2014 2:56:08 PM" />
+        <Url Source="../../Content/Resources/Images/Master/logo-dnb-288x42.png" TimeStamp="3/7/2015 9:56:34 AM" />
+        <Url Source="../../Content/Resources/Images/Master/logo-dnb.jpg" TimeStamp="3/6/2015 8:17:34 PM" />
+        <Url Source="../../Content/Resources/Images/Master/logo-dnb.png" TimeStamp="3/7/2015 9:41:59 AM" />
+        <Url Source="../../Content/Resources/Images/Master/logo-dnb1.gif" TimeStamp="3/6/2015 8:17:47 PM" />
+        <Url Source="../../Content/Resources/Images/Master/old-logo-dnb.gif" TimeStamp="6/26/2014 12:49:26 PM" />
+        <Url Source="../../Content/Resources/Images/Master/Branding/DB_WORDMARK_RGB.png" TimeStamp="3/6/2015 4:55:08 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/Archived/DnB-BackCover-2013.flpgl" TimeStamp="8/5/2014 3:27:39 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/Archived/DnB-Chapter-2013.flpgl" TimeStamp="11/20/2014 11:59:33 AM" />
+        <Url Source="../../Content/Resources/PageLayouts/Archived/DnB-Default-2013.flpgl" TimeStamp="11/20/2014 11:58:45 AM" />
+        <Url Source="../../Content/Resources/PageLayouts/Archived/DnB-TitlePage-2013.flpgl" TimeStamp="8/5/2014 3:31:12 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/Archived/DnB-TitlePage-D-2013.flpgl" TimeStamp="8/5/2014 3:31:35 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/Archived/DnB-TitlePage-L-2013.flpgl" TimeStamp="8/5/2014 3:31:48 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Dictionary/IceBreaker.flsnp" TimeStamp="1/21/2015 9:40:36 AM" />
+        <Url Source="../../Content/Resources/Snippets/Master/Dictionary/Marketo-Eloqua.flsnp" TimeStamp="1/21/2015 9:29:13 AM" />
+        <Url Source="../../Content/Resources/Stylesheets/Archived/DnB-Style-EN-0026-2013.css" TimeStamp="1/21/2015 9:55:28 AM" />
+        <Url Source="../../Content/Resources/Stylesheets/Archived/DnB-Style-EN-0027.css" TimeStamp="3/6/2015 8:38:56 PM" />
+        <Url Source="../../Content/Resources/Stylesheets/Archived/DnB-Style-EN-0028.css" TimeStamp="3/7/2015 9:55:04 AM" />
+        <Url Source="../../Content/Resources/Stylesheets/Archived/DnB-Style-EN-0030 (no online).css" TimeStamp="3/9/2015 5:58:43 PM" />
+        <Url Source="../../Content/Resources/TableStyles/Archived/dnb_tablestyle_1-2013.css" TimeStamp="4/22/2014 5:21:51 PM" />
+        <Url Source="../../Content/Resources/TableStyles/Archived/dnb_tablestyle_2-2013.css" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/TableStyles/Archived/dnb_tablestyle_3-2013.css" TimeStamp="3/18/2014 1:20:34 PM" />
+        <Url Source="../../Content/Resources/PageLayouts/Archived/DnB-Index-2013.flpgl" TimeStamp="8/5/2014 3:30:50 PM" />
+        <Url Source="../../Content/copyright.htm" TimeStamp="4/1/2015 12:59:41 PM" />
+        <Url Source="../../Content/Master/Branding/OLD_DnB_Copyright.htm" TimeStamp="4/1/2015 12:25:23 PM" />
+        <Url Source="../../Content/Resources/Snippets/Master/DnB-CopyrightPage.flsnp" TimeStamp="4/1/2015 2:47:14 PM" />
+        <Url Source="../../Content/Resources/Stylesheets/Archived/DnB-Style-EN-0031.css" TimeStamp="3/15/2015 6:26:23 PM" />
+        <Url Source="../../Content/Resources/TableStyles/control-table.css" TimeStamp="3/23/2015 1:02:54 PM" />
+        <Url Source="../../Content/Resources/TableStyles/filterless-table.css" TimeStamp="4/1/2015 11:31:24 AM" />
+    </GeneratedFiles>
+</CatapultProject>

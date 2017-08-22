@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="435" MadCap:lastWidth="819">
+    <body>
+        <h2 MadCap:conditions="">Response Times</h2>
+        <p MadCap:conditions="">D&amp;B strives to ensure that all requests are processed in a timely fashion, and regularly reviews and expands the capacity of its servers.</p>
+        <p MadCap:conditions="">
+            <b>Response time is defined as the total duration between request arrival and response departure from the D&amp;B network, and expressly excludes Internet latency.</b> It reflects the amount of time that the web service requires to respond to an API request. </p>
+        <p MadCap:conditions="Master/DnB-Project.Role-Partner">D&amp;B also takes appropriate precautions to ensure that any one user on the system does not adversely affect any other user in causing response times to rise above certain thresholds.</p>
+        <p MadCap:conditions="Master/DnB-Project.Role-EndUser">D&amp;B also takes appropriate precautions to ensure that any one user on the system does not adversely affect any other user in causing response times to rise above the thresholds stated in the following table.</p>
+    </body>
+</html>

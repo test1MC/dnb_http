@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="D&amp;B&#160;Default Target" Type="PDF" Destinations="" GlossaryTermConversion="marked" conditions="" MasterStylesheet="/Content/Resources/Stylesheets/DnB-Style-EN.css" ConditionTagExpression="include[Master/DnB-Branding.DnB or Master/DnB-Partners.!Oracle or Master/DnB-Partners.!Salesforce-Data or Master/DnB-Partners.!SugarCRM or Master/DnB-Product.DnB-NoLogo or Master/DnB-Product.DnB-Toolkit or Master/DnB-Project.Incl-SupportDef or Master/DnB-Project.Incl-Warranty or Master/DnB-Project.Language-EN-US or Master/DnB-Project.Media-Digital or Master/DnB-Project.Media-Paper or Master/DnB-Project.Role-Partner or Master/DnB-Project.Title-Version] exclude[Master/DnB-Branding.Hoovers or Master/DnB-Partners.Microsoft-MSD or Master/DnB-Partners.Oracle or Master/DnB-Partners.Salesforce-Data or Master/DnB-Partners.SAP or Master/DnB-Partners.Seibel or Master/DnB-Partners.SugarCRM or Master/DnB-Product.DnB-360 or Master/DnB-Product.DnB-CIM or Master/DnB-Product.DnB-CM4SSIS or Master/DnB-Product.DnB-Compliance or Master/DnB-Product.DnB-DataX or Master/DnB-Product.DnB-Direct or Master/DnB-Product.DnB-Direct1 or Master/DnB-Product.DnB-DNBi or Master/DnB-Product.DnB-FamTree or Master/DnB-Product.DnB-Hoovers or Master/DnB-Product.DnB-MktInsight or Master/DnB-Product.DnB-Optimizer or Master/DnB-Product.DnB-OptOnline or Master/DnB-Product.DnB-SRMgr or Master/DnB-Project.Incl-PreparedOn or Master/DnB-Project.Incl-Trademark or Master/DnB-Project.Language-ES or Master/DnB-Project.Language-FR or Master/DnB-Project.Language-JA or Master/DnB-Project.Language-PT or Master/DnB-Project.Language-ZH or Master/DnB-Project.Status-Comment or Master/DnB-Project.Status-Descoped or Master/DnB-Project.Status-Draft] " MasterToc="/Project/TOCs/Master/DnB-Support-Generic.fltoc" MasterPageLayout="/Content/Resources/PageLayouts/DnB-Default.flpgl" InjectEmptyPages="true">
+    <PrintedOutput CollapseMargins="true" />
+    <DocumentProperties Author="Dun &amp; Bradstreet" Title="D&amp;B&#160;API&#160;Solutions Support Definition&#160;&amp;&#160;Procedures" />
+    <PDF InitialMagnification="Fit" PageMode="UseNone" PageLayout="SinglePage" TitleBar="DocumentTitle" ShowUsedBookmarks="false" CollapsedBookmarks="true" RestrictPermissions="false" RestrictPrinting="false" RestrictEditing="false" RestrictCopying="false" />
+    <Variables>
+        <Variable Name="Master/DnB-Product/DnB-NoName">D&amp;B&#160;Partner&#160;Solutions</Variable>
+        <Variable Name="Master/DnB-Project/Book-SubTitle">Standard Support Definition &amp;&#160;Procedures</Variable>
+        <Variable Name="Master/DnB-Project/Book-Version">Revised on September 25, 2014</Variable>
+        <Variable Name="Master/DnB-Project/Book-Cover-Notes">CONFIDENTIAL &amp; PROPRIETARY - This material is confidential and proprietary to D&amp;B and/or third parties and may not be reproduced, published or disclosed to others without the express authorization of the General Counsel of D&amp;B.</Variable>
+        <Variable Name="Master/DnB-Branding/DnB-Trademarks">D&amp;B&#160;Direct is a</Variable>
+        <Variable Name="Master/DnB-Project/Book-Heading">Support&#160;Definition &amp;&#160;Procedures</Variable>
+        <Variable Name="Master/DnB-Branding/DnB-Name">Dun &amp; Bradstreet </Variable>
+        <Variable Name="Master/DnB-Product/DnB-Optimizer">D&amp;B&#160;Optimizer</Variable>
+        <Variable Name="Master/DnB-Partners/Partner-NoName">Partner</Variable>
+        <Variable Name="Master/DnB-Project/Book-Support-Audience">Partner</Variable>
+    </Variables>
+</CatapultTarget>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="56" MadCap:lastWidth="637">
+    <body>
+        <span MadCap:conditions="Master/DnB-Product.DnB-Direct">an <a href="http://support.dnb.com/?prod=DNBDirect">online form</a></span>
+        <span MadCap:conditions="Master/DnB-Product.DnB-CM4SSIS">an <a href="http://support.dnb.com/?prod=msssis">online form</a></span>
+        <span MadCap:conditions="Master/DnB-Partners.SugarCRM">an <a href="http://support.dnb.com/?prod=surgarcrm">online form</a> <i>(http://support.dnb.com/?prod=surgarcrm)</i></span>
+        <span MadCap:conditions="Master/DnB-Partners.Oracle">an <a href="http://support.dnb.com/?prod=oracle">online form</a> <i>(http://support.dnb.com/?prod=oracle)</i></span>
+        <span MadCap:conditions="Master/DnB-Partners.Informatica">an <a href="http://support.dnb.com/?prod=Informatica">online form</a> <i>(http://support.dnb.com/?prod=Informatica)</i></span>
+        <span MadCap:conditions="Master/DnB-Partners.!SugarCRM,Master/DnB-Partners.!Oracle,Master/DnB-Partners.!Salesforce-Data,Master/DnB-Partners.!Informatica">the URL provided</span>
+    </body>
+</html>

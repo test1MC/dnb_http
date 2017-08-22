@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="BackCover" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="5px" PaddingBottom="5px" PageType="left" BackgroundPositionX="0" BackgroundPositionY="0">
+        <Frame X="-96px" Y="188px" Width="816px" Height="814px" Flow="body" Right="-96px" Bottom="44px" Anchors="" />
+        <Frame X="-96px" Y="1003px" Width="816px" Height="50px" Flow="footer" Right="-96px" Bottom="-7px" BorderBottomStyle="solid" BorderBottomWidth="25px" BorderBottomColor="#2a64a0" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-95px" Y="-4px" Width="818px" Height="194px" Flow="header" Right="-99px" Bottom="856px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/Master/Product/DB-3520 User Guide Template-BACK COVER_Header.jpg" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:style="width: 8.5in;height: auto;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Copy of BackCover" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="5px" PaddingBottom="5px" PageType="right" BackgroundPositionX="0" BackgroundPositionY="0">
+        <Frame X="-96px" Y="188px" Width="816px" Height="814px" Flow="body" Right="-96px" Bottom="44px" Anchors="" />
+        <Frame X="-95px" Y="-4px" Width="818px" Height="194px" Flow="header" Right="-99px" Bottom="856px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/Master/Product/DB-3520 User Guide Template-BACK COVER_Header.jpg" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:style="width: 8.5in;height: auto;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

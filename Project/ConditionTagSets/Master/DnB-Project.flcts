@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet Comment="My set of condition tags">
+    <ConditionTag Comment="" Name="Status-Descoped" BackgroundColor="#000000" />
+    <ConditionTag Comment="Caution using this tag in documents requiring translation" Name="Status-Comment" BackgroundColor="#6495ed" />
+    <ConditionTag BackgroundColor="#ff7f50" Name="Status-Draft" Comment="" />
+    <ConditionTag BackgroundColor="#ffb6c1" Name="Language-EN-US" Comment="English (United States)" OriginalName="Language-EN-US" />
+    <ConditionTag BackgroundColor="#f08080" Name="Language-ZH" Comment="Chinese (Simplified)" OriginalName="Language-ZH" />
+    <ConditionTag BackgroundColor="#ffa07a" Name="Language-FR" Comment="French" />
+    <ConditionTag BackgroundColor="#20b2aa" Name="Language-JA" Comment="Japanese" />
+    <ConditionTag BackgroundColor="#add8e6" Name="Language-ES" Comment="Spanish" />
+    <ConditionTag BackgroundColor="#90ee90" Name="Language-PT" Comment="Portuguese" />
+    <ConditionTag BackgroundColor="#0000ff" Name="Role-Installer" Comment="" OriginalName="Role-Installer" />
+    <ConditionTag BackgroundColor="#008000" Name="Role-Administrator" Comment="" OriginalName="Role-Administrator" />
+    <ConditionTag BackgroundColor="#ffa500" Name="Role-EndUser" Comment="" OriginalName="Role-EndUser" />
+    <ConditionTag BackgroundColor="#ff0000" Name="Role-Partner" Comment="" />
+    <ConditionTag BackgroundColor="#8b008b" Name="Incl-Trademark" Comment="Used on Copyright Page" />
+    <ConditionTag BackgroundColor="#00bfff" Name="Incl-Warranty" Comment="Used on Copyright Page" />
+    <ConditionTag BackgroundColor="#00ff00" Name="Language-EN" Comment="DESCOPED, DO&#160;NOT&#160;USE" OriginalName="Language-EN" />
+    <ConditionTag BackgroundColor="#8b4513" Name="Media-Paper" Comment="For material intended strictly for printed output" OriginalName="Media-Paper" />
+    <ConditionTag BackgroundColor="#ff00ff" Name="Media-Digital" Comment="For material that should only appear in digital output (e.g. PDF)" />
+    <ConditionTag BackgroundColor="#2f4f4f" Name="Media-Online" Comment="" />
+    <ConditionTag BackgroundColor="#9acd32" Name="Incl-Training" Comment="Used on About Page" />
+    <ConditionTag BackgroundColor="#fa8072" Name="Incl-Related" Comment="Use on About Page" />
+    <ConditionTag BackgroundColor="#ff0000" Name="Incl-PreparedOn" Comment="Shows date PDF was prepared on Cover page." OriginalName="Incl_PreparedBy" />
+    <ConditionTag BackgroundColor="#0000ff" Name="Incl-Vanity" Comment="Includes a reference to the online documentation on copyright and About pages." />
+    <ConditionTag BackgroundColor="#008000" Name="Incl-SupportDef" Comment="Used for SLA/SLD materials" OriginalName="Incl-SupportDef" />
+    <ConditionTag BackgroundColor="#ffa500" Name="Title-Version" Comment="Third item on Cover page" OriginalName="Title-Version" />
+    <ConditionTag BackgroundColor="#8b008b" Name="Title-Notes" Comment="Fourth item on Cover page" OriginalName="Title-Notes" />
+    <ConditionTag BackgroundColor="#00bfff" Name="Footer-PreparedOn" Comment="Shows date PDF was prepared on page footers." />
+    <ConditionTag BackgroundColor="#00ff00" Name="OddBackCover" Comment="When back cover lands on an odd numbered page and faces inward." OriginalName="OddBackCover" />
+    <ConditionTag BackgroundColor="#8b4513" Name="Language-EN-UK" Comment="English (United Kingdom)" />
+    <ConditionTag BackgroundColor="#ff00ff" Name="Language-EN-CA" Comment="English&#160;(Canada)" />
+    <ConditionTag BackgroundColor="#2f4f4f" Name="Language-FR-CA" Comment="French&#160;(Canada)" />
+    <ConditionTag BackgroundColor="#9acd32" Name="Media-DITA" Comment="For material to be includes in DITA output" />
+    <ConditionTag BackgroundColor="#fa8072" Name="Incl-OpenC" Comment="Use with DnB-OpenCopyright variable on Copyright page." />
+    <ConditionTag BackgroundColor="#fa8072" Name="Incl-OpenM" Comment="Use with DnB-OpenMarks variable on Copyright page." />
+    <ConditionTag BackgroundColor="#ff0000" Name="Incl-CopySoft" Comment="Include items on copyright page that speak to software." />
+</CatapultConditionTagSet>

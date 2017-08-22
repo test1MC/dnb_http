@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="244" MadCap:lastWidth="875">
+    <body>
+        <h2>Root Cause Analysis</h2>
+        <p>A root cause is a factor that caused an issue and is often addressed through process improvement. Root Cause Analysis (RCA) is the process used to uncover causes of system outages and <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> detected problems.</p>
+        <p>D&amp;B will prepare the <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> RCA&#160;within five business days after an issue is resolved. This document will provide a summary of the events, root cause and resolution, will be shared with <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />.</p>
+        <p MadCap:conditions="Master/DnB-Project.Role-Partner">Upon request, D&amp;B&#160;will prepare a more detailed Technical RCA within ten business days.&#160;This document supplements the <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> RCA with technical details of the root cause, resolution, and corrective actions taken to avoid re-occurrence.&#160;This document will be shared with the requesting <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />, and may NOT be shared with users of their respective application(s).</p>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="243" MadCap:lastWidth="875">
+    <body>
+        <h2>Helpful Terminology</h2>
+        <h3>Internet Latency</h3>
+        <p>Internet latency is defined as the amount of time it takes for an API request to be transmitted to the D&amp;B web server, and for the response to be delivered back to <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />’s application when traveling over a public network. This excludes the amount of time that it takes D&amp;B&#160;hosts to process the request and prepare a response.</p>
+        <h3>Data Quality</h3>
+        <p>The state of completeness, validity, consistency, timeliness and accuracy that makes data appropriate for a specific use.</p>
+    </body>
+</html>

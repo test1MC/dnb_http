@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="1352.5" MadCap:lastWidth="976">
+    <head>
+        <link href="../../../TableStyles/dnb_tablestyle_3.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h2>Availability</h2>
+        <p MadCap:conditions="Master/DnB-Partners.!Oracle">Service availability is defined as the percentage of time that a D&amp;B API service is capable of receiving, processing and responding to requests, excluding all scheduled maintenance.&#160;The monthly D&amp;B&#160;API service availability target is 99.0% across all customer markets.</p>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">Service Availability is defined as the amount of time the D&amp;B Services is available and capable of receiving, processing and responding to requests. D&amp;B monitors service availability. Service Availability is calculated as the cumulative number of service failures. The service availability targets for D&amp;B Direct are: US 99%.</p>
+        <p MadCap:conditions="Master/DnB-Partners.!Oracle">D&amp;B API services are currently accessible on a 24 x 6.5 basis; with regular service hours from Sunday 14:00 to Sunday 04:00 GMT, allowing for a small scheduled routine maintenance window once a week. The number of services affected by the routine maintenance may vary from week to week.</p>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">The D&amp;B&#160;Services are available on a 24 x 6.5 basis to customers. The normal service hours are 9:00 am EST (or EDT while Daylight Savings Time is in effect) Sunday to 11pm EST&#160;Saturday.</p>
+        <table style="mc-table-style: url('../../../TableStyles/dnb_tablestyle_3.css');" class="TableStyle-dnb_tablestyle_3" cellspacing="1">
+            <col class="TableStyle-dnb_tablestyle_3-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_3-Column-Column1" />
+            <col class="TableStyle-dnb_tablestyle_3-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_3-Head-Header1">
+                    <th class="TableStyle-dnb_tablestyle_3-HeadD-Column1-Header1" colspan="3">Service Availability</th>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_3-Head-Subheading">
+                    <th class="TableStyle-dnb_tablestyle_3-HeadE-Column1-Subheading">Time Zone</th>
+                    <th class="TableStyle-dnb_tablestyle_3-HeadE-Column1-Subheading">From</th>
+                    <th class="TableStyle-dnb_tablestyle_3-HeadD-Column1-Subheading">To</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-dnb_tablestyle_3-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_3-BodyE-Column1-Body1">Pacific (PST)*</td>
+                    <td class="TableStyle-dnb_tablestyle_3-BodyE-Column1-Body1">06:00 Sunday</td>
+                    <td class="TableStyle-dnb_tablestyle_3-BodyD-Column1-Body1">20:00 Saturday</td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_3-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_3-BodyE-Column1-Body1">Eastern (EST)*</td>
+                    <td class="TableStyle-dnb_tablestyle_3-BodyE-Column1-Body1">09:00 Sunday</td>
+                    <td class="TableStyle-dnb_tablestyle_3-BodyD-Column1-Body1">23:00 Saturday</td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_3-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_3-BodyE-Column1-Body1">Greenwich (GMT)</td>
+                    <td class="TableStyle-dnb_tablestyle_3-BodyE-Column1-Body1">14:00 Sunday</td>
+                    <td class="TableStyle-dnb_tablestyle_3-BodyD-Column1-Body1">04:00 Sunday</td>
+                </tr>
+                <tr class="TableStyle-dnb_tablestyle_3-Body-Body1">
+                    <td class="TableStyle-dnb_tablestyle_3-BodyB-Column1-Body1">Europe (CET)**</td>
+                    <td class="TableStyle-dnb_tablestyle_3-BodyB-Column1-Body1">15:00 Sunday</td>
+                    <td class="TableStyle-dnb_tablestyle_3-BodyA-Column1-Body1">-05:00 Sunday</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>*or PDT/EDT while Daylight Savings Time is in effect.<br />** or CEST during the Summer.</p>
+        <p>Requests placed outside of the Service Hours are likely to experience a timeout or receive an error message which could be one of “sign on failed; system unavailable; connect failed; internal D&amp;B error,” depending on what components of the environment happen to be under maintenance at the time.</p>
+        <p MadCap:conditions="Master/DnB-Partners.!Oracle">D&amp;B takes reasonable steps to avoid planned downtime. In rare cases, there may be a need to take some, or all, of the API (or a host upon which it relies) out of service in order to perform unscheduled maintenance. Such an outage would typically be required in order to resolve a high severity production issue or to support a crucial business need.</p>
+        <p MadCap:conditions="Master/DnB-Project.Status-Descoped">If scheduled maintenance is required, D&amp;B strives to provide at least 72 hours notice via email to all <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />s who regularly use the D&amp;B Services within the affected hours.</p>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">If scheduled maintenance is required, D&amp;B strives to provide at least 72 hours notice via email to <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />.</p>
+        <p MadCap:conditions="Master/DnB-Partners.Oracle">On an exception basis, there may be a critical need to take the D&amp;B Service down in order to perform unscheduled maintenance. Such an outage would typically be required in order to resolve a high severity production issue or to support a crucial business need.</p>
+    </body>
+</html>

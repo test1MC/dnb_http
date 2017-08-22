@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="1" MadCap:lastHeight="56" MadCap:lastWidth="650">
+    <body>
+        <span MadCap:conditions="Master/DnB-Partners.!SugarCRM,Master/DnB-Partners.!Oracle">sending a message to the email provided</span>
+        <MadCap:conditionalText MadCap:conditions="Master/DnB-Partners.SugarCRM">using an <a href="http://support.dnb.com/?prod=sugarcrmdq">online form</a> <i>(http://support.dnb.com/?prod=sugarcrmdq)</i></MadCap:conditionalText>
+        <MadCap:conditionalText MadCap:conditions="Master/DnB-Partners.Oracle">using an <a href="http://support.dnb.com/?prod=oracle">online form</a> <i>(http://support.dnb.com/?prod=oracle)</i></MadCap:conditionalText>
+    </body>
+</html>

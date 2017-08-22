@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="842" MadCap:lastWidth="870">
+    <head>
+        <link href="../../../TableStyles/dnb_tablestyle_2.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table border="1" bgcolor="#ffffff" cellspacing="1" style="mc-table-style: url('../../../TableStyles/dnb_tablestyle_2.css');" class="TableStyle-dnb_tablestyle_2">
+            <thead>
+                <tr class="TableStyle-dnb_tablestyle_2-Head-Header1">
+                    <th bgcolor="#c0c0c0" bordercolor="#000000" class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Excel Display Name</font>
+                    </th>
+                    <th bgcolor="#c0c0c0" bordercolor="#000000" class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Description</font>
+                    </th>
+                    <th bgcolor="#c0c0c0" bordercolor="#000000" class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Type</font>
+                    </th>
+                    <th bgcolor="#c0c0c0" bordercolor="#000000" class="TableStyle-dnb_tablestyle_2-HeadE-Column1-Header1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Length</font>
+                    </th>
+                    <th bgcolor="#c0c0c0" bordercolor="#000000" class="TableStyle-dnb_tablestyle_2-HeadD-Column1-Header1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">D&amp;B Direct Field</font>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr valign="TOP" class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">DUNS Number</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">The D-U-N-S Number is D&amp;B's identification number, which provides unique identification of this organization, in accordance with the Data Universal Numbering System (D-U-N-S). This DUNS Number represents the business entity.</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">string</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" align="RIGHT" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">9</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">D-U-N-S Number</font>
+                    </td>
+                </tr>
+                <tr valign="TOP" class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Company Name</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Text recording of a single name by which the organization is primarily known or identified.</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">string</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" align="RIGHT" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">90</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Primary Business Name</font>
+                    </td>
+                </tr>
+                <tr valign="TOP" class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Street Address</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Text recording the address number, or post office box number and street name where the business is located.</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">string</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" align="RIGHT" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">64</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Street Address</font>
+                    </td>
+                </tr>
+                <tr valign="TOP" class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">City</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Text recording the name of a city, town, township, village, borough, etc. where the business is located.</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">string</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" align="RIGHT" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">50</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Town Name</font>
+                    </td>
+                </tr>
+                <tr valign="TOP" class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">State Abbrv</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Text recording the shortened name of the locally governed area which forms part of a centrally governed nation to identify where the business is located.</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">string</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" align="RIGHT" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">10</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Territory Abbreviated Name</font>
+                    </td>
+                </tr>
+                <tr valign="TOP" class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Postal Code</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">An identifier used by the local country Postal Authority to identify where the business is located.</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">string</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" align="RIGHT" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">16</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Postal Code</font>
+                    </td>
+                </tr>
+                <tr valign="TOP" class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Country</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">The name of the country where the business is located.<br /></font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">string<br /></font>
+                    </td>
+                    <td bordercolor="#d0d7e5" align="RIGHT" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">50</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">n/a<br /></font>
+                    </td>
+                </tr>
+                <tr valign="TOP" class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">State/Province </font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Text recording the name of the locally governed area which forms part of a centrally governed nation to identify where the business is located.</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">string</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" align="RIGHT" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">50</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Territory Name</font>
+                    </td>
+                </tr>
+                <tr valign="TOP" class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Telephone Number</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">The telephone number of the business.</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">string</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" align="RIGHT" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">16</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Telephone Number</font>
+                    </td>
+                </tr>
+                <tr valign="TOP" class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Annual Sales USD</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">The monetary value of income received from customers from the sale of the business' goods and/or services. This means it is the gross sales minus any returns, rebates/discounts, allowances for damages or shortages, shipping expenses passed on to the custo</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">numeric</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" align="RIGHT" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">15</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Sales Revenue Amount</font>
+                    </td>
+                </tr>
+                <tr valign="TOP" class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Employees Total</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">A number that defines how many people are directly engaged and paid by the organization to perform or support its business operations.</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">numeric</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" align="RIGHT" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">15</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Employee Quantity (All Locations)</font>
+                    </td>
+                </tr>
+                <tr valign="TOP" class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">SIC</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">A four digit numeric value identifying the primary business activity of this company based on the Standard Industrial Classification system.</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">string</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" align="RIGHT" class="TableStyle-dnb_tablestyle_2-BodyE-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">8</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyD-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Primary SIC Code</font>
+                    </td>
+                </tr>
+                <tr valign="TOP" class="TableStyle-dnb_tablestyle_2-Body-Body1">
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">SIC Description</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Text that describes the business activity based on the scheme specified by the attribute type, e.g., 'highway and street construction' is the description of industry code 1611 in the U.S. SIC (Standard Industrial Classification) system.</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">string</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" align="RIGHT" class="TableStyle-dnb_tablestyle_2-BodyB-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">65</font>
+                    </td>
+                    <td bordercolor="#d0d7e5" class="TableStyle-dnb_tablestyle_2-BodyA-Column1-Body1">
+                        <font style="FONT-SIZE: 11pt;" face="Calibri" color="#000000">Primary SIC Description</font>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot />
+        </table>
+    </body>
+</html>

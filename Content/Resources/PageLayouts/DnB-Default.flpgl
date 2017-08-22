@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="20pt" PageSize="Letter" PageType="normal">
+        <Frame Flow="body" Y="15.75pt" Bottom="51.75pt" X="24pt" Right="24pt" ColumnCount="1" Anchors="Left,Right,Top,Bottom" Width="698px" Height="912px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Height="36pt" Anchors="Left,Right,Bottom" Right="-21pt" Bottom="-20.25pt" X="-20.25pt" Y="735.75pt" Width="612.75pt" TextAlign="right" BorderBottomStyle="none" BorderBottomWidth="25px" BorderBottomColor="#2a64a0">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="width: 7.5in;margin-left: auto;margin-right: auto;">
+                            <xhtml:col />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td>
+                                        <xhtml:span xhtml:class="footer_dark">
+                                            <MadCap:variable xhtml:name="Master/DnB-Product.DnB-NoName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                                        </xhtml:span> |&#160;<xhtml:span xhtml:class="footer_light"><MadCap:variable xhtml:name="Master/DnB-Branding.Copyright" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></xhtml:span></xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;">
+                                        <xhtml:span xhtml:class="footer_dark">
+                                            <MadCap:variable xhtml:name="Heading.Level1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                                        </xhtml:span>&#160;<xhtml:span xhtml:class="footer_light"><MadCap:variable xhtml:name="System.PageNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></xhtml:span></xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

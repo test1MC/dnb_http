@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" conditions="">
+    <TocEntry Title="Title Page" Link="/Content/Master/Branding/DnB_Title.htm" BreakType="chapter" PageType="title" AutoEndOnLeftPage="disabled" StartSection="false" PageLayout="/Content/Resources/PageLayouts/DnB-TitlePage.flpgl" PageNumberReset="reset" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="continue" PageNumberFormat="lower-roman" PageNumber="1" SectionNumberFormat="Title Page">
+    </TocEntry>
+    <TocEntry Title="Copyright" Link="/Content/Master/Branding/DnB_Copyright.htm" BreakType="chapter" PageLayout="/Content/Resources/PageLayouts/DnB-Copyright.flpgl" AutoEndOnLeftPage="disabled" StartSection="false" PageNumberReset="continue" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="same" />
+    <TocEntry Title="Table of Contents" Link="/Content/Master/Style/DnB_Table_of_Contents.htm" BreakType="chapter" PageType="first" PageLayout="/Content/Resources/PageLayouts/DnB-Chapter.flpgl" StartSection="false" PageNumberReset="continue" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="same" AutoEndOnLeftPage="disabled">
+    </TocEntry>
+    <TocEntry Title="About this Guide" Link="/Content/Master/Style/DnB_About_this_Guide.htm" BreakType="chapter" PageType="first" AutoEndOnLeftPage="disabled" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/DnB-Chapter.flpgl" />
+    <TocEntry Title="First Chapter" Link="/Content/DnB_New_Chapter.htm" BreakType="chapter" PageType="first" PageNumberReset="reset" StartSection="false" PageNumber="{chapnum}-{n}" PageLayout="/Content/Resources/PageLayouts/DnB-Chapter.flpgl" PageNumberFormat="text" ChapterNumberReset="reset" ChapterNumber="1" SectionNumberReset="continue" VolumeNumberReset="same">
+        <TocEntry Title="New Topic" Link="/Content/DnB_New_Topic.htm">
+        </TocEntry>
+        <TocEntry Title="New Topic" Link="/Content/DnB_New_Topic.htm">
+        </TocEntry>
+    </TocEntry>
+    <TocEntry Title="Next Chapter" Link="/Content/DnB_New_Chapter.htm" BreakType="chapter" PageType="first" PageNumberReset="reset" StartSection="false" PageNumber="{chapnum}-{n}" PageLayout="/Content/Resources/PageLayouts/DnB-Chapter.flpgl" PageNumberFormat="text">
+        <TocEntry Title="New Topic" Link="/Content/DnB_New_Topic.htm">
+        </TocEntry>
+    </TocEntry>
+    <TocEntry Title="Next Chapter" Link="/Content/DnB_New_Chapter.htm" BreakType="chapter" PageType="first" PageNumberReset="reset" StartSection="false" PageNumber="{chapnum}-{n}" PageLayout="/Content/Resources/PageLayouts/DnB-Chapter.flpgl" PageNumberFormat="text">
+        <TocEntry Title="New Topic" Link="/Content/DnB_New_Topic.htm">
+        </TocEntry>
+    </TocEntry>
+    <TocEntry Title="First Appendix" Link="/Content/DnB_New_Appendix.htm" BreakType="chapter" PageNumberReset="reset" StartSection="false" PageNumber="{chapnum}-{n}" PageLayout="/Content/Resources/PageLayouts/DnB-Chapter.flpgl" PageNumberFormat="text" ChapterNumberReset="reset" ChapterNumber="A" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberFormat="upper-alpha">
+    </TocEntry>
+    <TocEntry Title="Next Appendix" Link="/Content/DnB_New_Appendix.htm" BreakType="chapter" PageNumberReset="reset" StartSection="false" PageNumber="{chapnum}-{n}" PageLayout="/Content/Resources/PageLayouts/DnB-Chapter.flpgl" PageNumberFormat="text" ChapterNumberReset="continue" ChapterNumber="A" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberFormat="upper-alpha">
+    </TocEntry>
+    <TocEntry Title="Back Index" Link="/Content/Master/Style/DnB_Back_Index.htm" BreakType="chapter" PageNumberReset="reset" PageNumberFormat="text" PageType="first" ChapterNumberReset="reset" ChapterNumber="1" PageLayout="/Content/Resources/PageLayouts/DnB-Index.flpgl" StartSection="false" PageNumber="IN-{n}" SectionNumberReset="continue" VolumeNumberReset="same" AutoEndOnLeftPage="disabled">
+    </TocEntry>
+    <TocEntry Title="Inside Back Cover (Odd Page)" Link="/Content/Master/Branding/DnB_Blank_Page.htm" conditions="Master/DnB-Project.OddBackCover" />
+    <TocEntry Title="Back Cover" Link="/Content/Master/Branding/DnB_Back_Cover.htm" BreakType="chapter" StartSection="false" PageNumberReset="continue" PageLayout="/Content/Resources/PageLayouts/DnB-BackCover.flpgl" AutoEndOnLeftPage="disabled">
+    </TocEntry>
+</CatapultToc>

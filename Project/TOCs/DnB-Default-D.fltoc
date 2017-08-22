@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" conditions="">
+    <TocEntry Title="Title Page" Link="/Content/Master/Branding/DnB_Title-D.htm" BreakType="chapter" PageType="title" AutoEndOnLeftPage="disabled" StartSection="false" PageLayout="/Content/Resources/PageLayouts/DnB-TitlePage-D.flpgl" PageNumberReset="reset" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberReset="continue" PageNumberFormat="lower-roman" PageNumber="1" SectionNumberFormat="Title Page" />
+    <TocEntry Title="First Chapter" Link="/Content/DnB_New_Chapter.htm" BreakType="chapter" PageNumberReset="reset" StartSection="false" PageNumber="{chapnum}-{n}" PageNumberFormat="text" ChapterNumberReset="reset" ChapterNumber="1" SectionNumberReset="continue" VolumeNumberReset="same" PageType="first">
+    </TocEntry>
+    <TocEntry Title="Next Chapter" Link="/Content/DnB_New_Chapter.htm" BreakType="chapter" PageNumberReset="reset" StartSection="false" PageNumber="{chapnum}-{n}" PageNumberFormat="text" PageType="first">
+        <TocEntry Title="New Topic" Link="/Content/DnB_New_Topic.htm">
+        </TocEntry>
+    </TocEntry>
+    <TocEntry Title="Next Chapter" Link="/Content/DnB_New_Chapter.htm" BreakType="chapter" PageNumberReset="reset" StartSection="false" PageNumber="{chapnum}-{n}" PageNumberFormat="text" PageType="first">
+        <TocEntry Title="New Topic" Link="/Content/DnB_New_Topic.htm">
+        </TocEntry>
+    </TocEntry>
+    <TocEntry Title="First Appendix" Link="/Content/DnB_New_Appendix.htm" BreakType="chapter" PageNumberReset="reset" StartSection="false" PageNumber="{chapnum}-{n}" PageNumberFormat="text" ChapterNumberReset="reset" ChapterNumber="A" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberFormat="upper-alpha">
+    </TocEntry>
+    <TocEntry Title="Next Appendix" Link="/Content/DnB_New_Appendix.htm" BreakType="chapter" PageNumberReset="reset" StartSection="false" PageNumber="{chapnum}-{n}" PageNumberFormat="text" ChapterNumberReset="continue" ChapterNumber="A" SectionNumberReset="continue" VolumeNumberReset="same" ChapterNumberFormat="upper-alpha">
+    </TocEntry>
+</CatapultToc>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="155" MadCap:lastWidth="936">
+    <head>
+        <script type="text/javascript">/*<![CDATA[*/			
+			function parameterToDimension(parameter) {
+			var p = window.frames.top.location.search.split("?")[1].split("&");
+			var t;
+			for(var i=0; i < p.length; i++){
+			t = p[i].split("=");
+			if(t[0] == parameter) return t[1];
+			}
+			return ""; }
+			
+			function ipToNumber(ip) {
+			var d = ip.split('.');
+			var n=d[0]*Math.pow(256,3);
+			n+=d[1]*Math.pow(256,2);
+			n+=d[2]*256;
+			n+=+d[3];
+			return n; }
+			
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', '<MadCap:variable name="Master/DnB-Project.Site-Analytics-Tag" />', 'auto');
+			ga('set', 'dimension1', '<MadCap:variable name="Master/DnB-Project.Site-Analytics-Dim1" />');
+			ga('set', 'dimension2', '<MadCap:variable name="Master/DnB-Project.Site-Analytics-Dim2" />');
+			ga('set', 'dimension3', '<MadCap:variable name="Master/DnB-Project.Site-Analytics-Dim3" />');
+			ga('set', 'dimension5', parameterToDimension('DnB-Source'));
+			
+			var userIP = ipToNumber('<!--#echo var="REMOTE_ADDR"-->');
+			var dnbLO = ipToNumber('158.151.0.0'); // D&B public network range per 
+			var dnbHI = ipToNumber('159.137.0.0'); // Steve Green, July 18, 2014
+			
+			ga('set', 'dimension4', (userIP<dnbLO||userIP>dnbHI)? "" : "D&B" );
+			ga('send', 'pageview');
+		/*]]>*/</script>
+    </head>
+    <body>
+        <MadCap:breadcrumbsProxy />
+        <MadCap:bodyProxy />
+        <p class="copyright_footer">
+            <MadCap:variable name="Master/DnB-Branding.Copyright&#160;(Full)" />
+        </p>
+    </body>
+</html>

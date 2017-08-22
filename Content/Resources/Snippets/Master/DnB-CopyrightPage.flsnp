@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="533" MadCap:lastWidth="939">
+    <body>
+        <div class="copyright-page">
+            <p>Copyright <MadCap:variable name="Master/DnB-Branding.Copyright" /></p>
+            <p>All rights reserved.</p>
+            <p>For purposes of this Dun &amp; Bradstreet Documentation, "D&amp;B" means The Dun &amp; Bradstreet Corporation, its subsidiaries, affiliates, divisions, contractors and all of its and their data sources and suppliers. This Documentation is a work of authorship that belongs to Dun &amp; Bradstreet, Inc. and is protected by United States and foreign copyright laws and international copyright treaties.</p>
+            <p>
+                <MadCap:annotation MadCap:createDate="2015-09-19T11:53:19.4350426-04:00" MadCap:creator="DAddezioI" MadCap:initials="IJD" MadCap:comment="Thisparagraph is prepended with the DnB-Branding.DnB-ExtraMarks variable. Leave that variable blank if there are no additional marks to express. Also end the value you place in the variable with a comma and space." MadCap:editor="DAddezioI" MadCap:editDate="2015-09-19T11:53:33.4204410-04:00">
+                    <MadCap:variable name="Master/DnB-Branding.DnB-ExtraMarks" />
+                D&amp;B®, <MadCap:variable name="Master/DnB-Branding.DnB-Name" />®, D-U-N-S® Number, DUNSRight®, WorldBase®, www.dnb.com® and the D&amp;B&#160;logo are registered marks in the U.S., and in other countries, of Dun &amp;&#160;Bradstreet, International, Ltd. or its affiliates.</MadCap:annotation>
+            </p>
+            <p MadCap:conditions="Master/DnB-Project.Incl-OpenM">
+                <MadCap:annotation MadCap:createDate="2015-09-19T11:54:42.1223105-04:00" MadCap:creator="DAddezioI" MadCap:initials="IJD" MadCap:comment="To add additional marks (non-D&amp;amp;B), use the DnB-Branding.DnB-OtherMarks variable, and DnB-Project.DnB-OtherM condition. This paragraph will appear here." MadCap:editor="DAddezioI" MadCap:editDate="2015-09-19T11:54:43.5864569-04:00">
+                    <MadCap:variable name="Master/DnB-Branding.DnB-OpenMarks" />
+                </MadCap:annotation>
+            </p>
+            <p>Other trademarks used herein are the trademarks, or registered trademarks, of their respective owners.</p>
+            <p MadCap:conditions="Master/DnB-Project.Incl-CopySoft">
+                <MadCap:annotation MadCap:createDate="2015-09-19T11:55:19.5180497-04:00" MadCap:creator="DAddezioI" MadCap:initials="IJD" MadCap:comment="If your document is not related to a specific software solution, you can suppress the following paragraph with DnB-Project.Incl_CopySoft condition.&#160;If this is not D&amp;amp;B&#160;software, override the owner by changing DnB-the Branding.DnB-SoftwareOwner variable." MadCap:editor="DAddezioI" MadCap:editDate="2015-09-19T11:55:20.2681247-04:00">Use of the <MadCap:variable name="Master/DnB-Product.DnB-NoName" /> software and this Documentation is governed by the <MadCap:variable name="Master/DnB-Branding.DnB-SoftwareOwner" /> software license agreement.</MadCap:annotation>
+            </p>
+            <p MadCap:conditions="Master/DnB-Project.Incl-Warranty">
+                <MadCap:annotation MadCap:createDate="2015-09-19T11:55:35.3636341-04:00" MadCap:creator="DAddezioI" MadCap:initials="IJD" MadCap:comment="This paragraph is suppressed by using the DnB-Project.InclWarranty condition.\r\n" MadCap:editor="DAddezioI" MadCap:editDate="2015-09-19T11:55:43.1424119-04:00">
+                    <b>D&amp;B does not guarantee or warrant systems availability or performance in accordance with the figures within this document, nor does D&amp;B accept any liability for damages which may be suffered as a result of placing any reliance on these figures.</b>  D&amp;B reserves the right to amend this document at any time and will advise the customer accordingly of any such amendments or changes.</MadCap:annotation>
+            </p>
+            <p MadCap:conditions="Master/DnB-Project.Incl-CopySoft">
+                <MadCap:annotation MadCap:createDate="2015-09-19T11:56:04.5905565-04:00" MadCap:creator="DAddezioI" MadCap:initials="IJD" MadCap:comment="If your document is not related to a specific software solution, you can suppress the following paragraph with the DnB-Project.Incl_CopySoft condition.&#160;If this is not D&amp;amp;B&#160;software, override the owner by changing the DnB-Branding.DnB-SoftwareOwner variable." MadCap:editor="DAddezioI" MadCap:editDate="2015-09-19T11:56:05.1366111-04:00">
+                    <MadCap:variable name="Master/DnB-Product.DnB-NoName" /> software is copyright © <MadCap:variable name="Master/DnB-Branding.DnB-SoftwareOwner" />, 2016. All rights reserved.</MadCap:annotation>
+            </p>
+            <p class="master_copyright" MadCap:conditions="Master/DnB-Project.Incl-OpenC">
+                <MadCap:annotation MadCap:createDate="2015-09-19T11:56:30.2961268-04:00" MadCap:creator="DAddezioI" MadCap:initials="IJD" MadCap:comment="To add additional marks (non-D&amp;amp;B), use the DnB-Branding.DnB-OtherCopyright variable, and DnB-Project.DnB-OtherV condition. This paragraph will appear here." MadCap:editor="DAddezioI" MadCap:editDate="2015-09-19T11:56:30.9821954-04:00">
+                    <MadCap:variable name="Master/DnB-Branding.DnB-OpenCopyright" />
+                </MadCap:annotation>
+            </p>
+            <p MadCap:conditions="Master/DnB-Project.Incl-Vanity,Master/DnB-Project.Media-Paper">
+                <MadCap:annotation MadCap:createDate="2015-09-19T11:57:10.9781946-04:00" MadCap:creator="DAddezioI" MadCap:initials="IJD" MadCap:comment="This paragraph may be included in PDF output, and can be suppressed with the DnB-Project.Incl-Vanity condition. The actual URL is set in the DnB-Product.DnB-Docs-Vanity variable" MadCap:editor="DAddezioI" MadCap:editDate="2015-09-19T11:57:16.2777245-04:00">For the most recent copy of these materials, please visit <MadCap:variable name="Master/DnB-Product.DnB-Docs-Vanity" /></MadCap:annotation>
+            </p>
+        </div>
+    </body>
+</html>

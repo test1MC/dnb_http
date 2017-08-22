@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="TitlePage" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="5px" PaddingBottom="5px" PageType="title" BackgroundPositionX="center" BackgroundPositionY="center" Orientation="landscape" BackgroundImage="none">
+        <Frame Height="540.75pt" Anchors="Left,Right,Top" Right="-72pt" X="-71.25pt" Y="33.75pt" ColumnCount="1" Bottom="40px" Width="1055px" BackgroundType="Solid" BackgroundColor="#ffffff" BackgroundRepeat="no-repeat" BackgroundPositionX="right" BackgroundImage="none" DividerWidth="1px" DividerTopMargin="1px" Flow="decoration">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body xhtml:style="text-align: center;">
+                        <xhtml:img xhtml:src="../Images/Master/Branding/dnb_deck_cover_banner.jpg" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-43px" Y="50px" Width="950px" Height="686px" Flow="body" Right="-43px" Bottom="70px" BackgroundImage="none" Anchors="" />
+    </Page>
+</PageStyles>

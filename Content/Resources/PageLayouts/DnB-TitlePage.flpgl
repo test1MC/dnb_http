@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="TitlePage" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="5px" PaddingBottom="5px" PageType="title" BackgroundPositionX="0" BackgroundPositionY="0">
+        <Frame X="-96px" Y="90px" Width="814px" Height="816px" Flow="body" Right="-94px" Bottom="140px" Anchors="" />
+        <Frame X="-96px" Y="955px" Width="816px" Height="97px" Flow="footer" Right="-96px" Bottom="-6px" BorderBottomStyle="none" BorderBottomWidth="25px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="master_title_date">Prepared on <MadCap:variable xhtml:name="System.LongDate" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-95px" Y="-3px" Width="815px" Height="94px" Flow="header" Right="-96px" Bottom="955px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="master_title_logo">
+                            <xhtml:img xhtml:src="../Images/Master/Branding/DB_WORDMARK_RGB.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:style="width: 2.5in;height: auto;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="169" MadCap:lastWidth="875">
+    <body>
+        <h2>
+            <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> Detected Problems</h2>
+        <p>Whenever multiple consecutive failures occur within any <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> application that accesses D&amp;B&#160;Services, <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> should contact their internal support departments to ensure there are no known issues with <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />'s environment.</p>
+        <p>If the issue appears external to <MadCap:variable name="Master/DnB-Partners.Partner-NoName" />'s environment, <MadCap:variable name="Master/DnB-Partners.Partner-NoName" /> should contact D&amp;B&#160;technical support and report the issue. If there is no known system outage at the time, a priority support ticket will be opened.</p>
+    </body>
+</html>
